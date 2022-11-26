@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2022.11.26)  26 NOV 2022 17:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2022.11.26)  26 NOV 2022 17:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -500,14 +500,8 @@ LaTeX Font Info:    Trying to load font information for U+ifclk on input line 2
 30.
  (/usr/share/texlive/texmf-dist/tex/latex/ifsym/uifclk.fd) [2]
 (./ricettario.aux)
-
-Package rerunfilecheck Warning: File `ricettario.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `ricettario.out':
-(rerunfilecheck)             Before: AD820B05E2D3AE932E01D680A9559BC3;248
-(rerunfilecheck)             After:  454B5D9AD65299EA196175FDF35EF6A0;289.
+Package rerunfilecheck Info: File `ricettario.out' has not changed.
+(rerunfilecheck)             Checksum: 454B5D9AD65299EA196175FDF35EF6A0;289.
  ) 
 Here is how much of TeX's memory you used:
  11214 strings out of 475075
@@ -524,7 +518,7 @@ mbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/sha
 re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on ricettario.pdf (3 pages, 71948 bytes).
+Output written on ricettario.pdf (3 pages, 72784 bytes).
 PDF statistics:
  72 PDF objects out of 1000 (max. 8388607)
  52 compressed objects within 1 object stream
