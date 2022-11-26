@@ -1,0 +1,27 @@
+\babel@toc {italian}{}
+\babel@toc {italian}{}
+\contentsline {part}{I\hspace {1em}Introduzione}{1}{part.1}%
+\contentsline {section}{\numberline {1}Temperature di cottura}{1}{section.1}%
+\contentsline {part}{II\hspace {1em}Pane e lievitati}{2}{part.2}%
+\contentsline {section}{\numberline {2}Panini da hamburger}{3}{section.2}%
+\contentsline {section}{\numberline {3}Panini da hamburgher veloci}{4}{section.3}%
+\contentsline {section}{\numberline {4}Crackers al sesamo}{5}{section.4}%
+\contentsline {part}{III\hspace {1em}Pesce}{6}{part.3}%
+\contentsline {section}{\numberline {5}Risotto alla gallinella}{7}{section.5}%
+\contentsline {section}{\numberline {6}Pesce spada al salmoriglio}{8}{section.6}%
+\contentsline {section}{\numberline {7}Tataki di tonno fagioli e cipolla}{9}{section.7}%
+\contentsline {section}{\numberline {8}Mini hamburger di ricciola}{10}{section.8}%
+\contentsline {part}{IV\hspace {1em}Carne}{11}{part.4}%
+\contentsline {section}{\numberline {9}Polpettone}{12}{section.9}%
+\contentsline {section}{\numberline {10}Nuggets di pollo}{13}{section.10}%
+\contentsline {part}{V\hspace {1em}BBQ}{14}{part.5}%
+\contentsline {section}{\numberline {11}Eliche di pollo al curry}{15}{section.11}%
+\contentsline {section}{\numberline {12}Smoked chicken wings}{16}{section.12}%
+\contentsline {section}{\numberline {13}Bombette pugliesi}{17}{section.13}%
+\contentsline {section}{\numberline {14}Involtini di carne alla siciliana}{18}{section.14}%
+\contentsline {part}{VI\hspace {1em}Cottura a bassa temperatura (CBT)}{19}{part.6}%
+\contentsline {section}{\numberline {15}Stinco di maiale (CBT)}{20}{section.15}%
+\contentsline {section}{\numberline {16}Vitello tonnato (CBT)}{21}{section.16}%
+\contentsline {part}{VII\hspace {1em}Dolci}{22}{part.7}%
+\contentsline {section}{\numberline {17}Pancake}{23}{section.17}%
+\contentsline {section}{\numberline {18}Biscotti di Natale}{24}{section.18}%

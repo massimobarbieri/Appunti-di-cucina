@@ -1,0 +1,228 @@
+\documentclass{article}
+\usepackage{fancyhdr}
+\usepackage{multicol}
+\usepackage[italian]{babel}
+\usepackage{makeidx}
+\usepackage[a4paper, total={6in, 8in}]{geometry}
+%\usepackage[%
+    %a5paper,
+%    papersize={5.5in,8.5in},
+%    margin=0.75in,
+%    top=0.75in,
+%    bottom=0.75in,
+    %twoside
+%    ]{geometry}
+
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage[clock]{ifsym}
+\usepackage{cookingsymbols}
+\usepackage{hyperref}
+
+\raggedcolumns
+\setlength{\multicolsep}{0pt}
+\setlength{\columnseprule}{1pt}
+
+\makeindex
+\makeatletter
+
+\newif\if@mainmatter \@mainmattertrue
+
+%% Borrowed from book.cls
+\newcommand\frontmatter{%
+    \cleardoublepage
+  \@mainmatterfalse
+  \pagenumbering{roman}}
+\newcommand\mainmatter{%
+    \cleardoublepage
+  \@mainmattertrue
+  \pagenumbering{arabic}}
+\makeatother
+
+%% Vary the colors at will
+
+\definecolor{vegcolor}{rgb}{0,0.5,0.2}
+\definecolor{frzcolor}{rgb}{0,0,1}
+
+% Your "recipes.sty" package starts here:
+%% Thanks to alephzero for the excellent start:
+
+\newcommand{\recipe}[2][]{%
+    \newpage
+    \lhead{}%
+    \chead{}%
+    \rhead{}%
+    \lfoot{}%
+    \rfoot{}%
+    \section{#2}%
+    \if###1##%
+    \else
+        \begin{center}
+            \parbox{0.75\linewidth}{\raggedright\itshape#1}%
+        \end{center}
+    \fi
+}
+\newcommand{\serves}[2][Porzioni \Fork\Dish\Knife]{%
+    \chead{#1 #2}}
+\newcommand{\vegetarian}{%
+    \rhead{\large\color{vegcolor}\textbf{V}}}
+\newcommand{\cbt}{%
+    \rhead{\large\color{vegcolor}\textbf{CBT}}}
+\newcommand{\freeze}{%
+    \lhead{\large\color{frzcolor}\textbf{F}}}
+%% Optional arguments for alternate names for these:
+\newcommand{\preptime}[2][\Interval]{%
+    \lfoot{#1 #2}%
+}
+\newcommand{\cooktime}[2][Cottura]{%
+    \rfoot{#1: #2}%
+}
+\newcommand{\temp}[1]{%
+    $#1^\circ$C}
+%% Optional argument is the width of the graphic, default = 1in
+\newcommand{\showit}[3][1in]{%
+    \begin{center}
+        \bigskip
+            \includegraphics[width=#1]{#2}%
+            \par
+            \medskip
+            \emph{#3}
+            \par
+        \end{center}%
+    }
+
+%% Optional argument for a  heading within the ingredients section
+\newcommand{\ingredients}[1][]{%
+    \if###1##%
+        {\color{red}\Large\textbf{Ingredienti}}%
+    \else
+        \emph{#1}%
+    \fi
+}
+
+%% Use \obeylines to minimize markup
+\newenvironment{ingreds}{%
+    \parindent0pt
+    \noindent
+    \ingredients
+    \par
+    \smallskip
+    \begin{multicols}{2}
+    \leftskip1em
+    \rightskip0pt plus 3em
+    \parskip=0.25em
+    \obeylines
+    \everypar={\hangindent2em}
+}{%
+    \end{multicols}%
+    \medskip
+}
+
+\newcounter{stepnum}
+
+%% Optional argument for an italicized pre-step
+%% Also use obeylines to minimize markup here as well
+\newenvironment{method}[1][]{%
+    \setcounter{stepnum}{0}
+    \noindent
+    {\color{red}\Large\textbf{Preparazione}}%
+    \par
+    \par
+    \smallskip
+    \if###1##%
+    \else
+        \noindent
+        \emph{#1}
+        \par
+    \fi
+    \begingroup
+    \parindent0pt
+    \parskip0.25em
+        \leftskip2em
+    \everypar={\llap{\stepcounter{stepnum}\hbox to2em{\thestepnum.\hfill}}}
+}{%
+    \par
+    \endgroup}
+
+
+%% Optional argument for an italicized pre-step
+%% Also use obeylines to minimize markup here as well
+\newenvironment{note}[1][]{%
+    \setcounter{stepnum}{0}
+    \noindent
+\newline
+    {\color{red}\Large\textbf{Note}}%
+    \par
+    \smallskip
+    \if###1##%
+    \else
+        \noindent
+        \emph{#1}
+        \par
+    \fi
+    \begingroup
+    \parindent0pt
+    \parskip0.25em
+        \leftskip2em
+    \everypar={\llap{\stepcounter{stepnum}\hbox to2em{\thestepnum.\hfill}}}
+}{%
+    \par
+    \endgroup}
+
+
+\pagestyle{fancy}
+% End of "recipes.sty"
+
+
+
+\begin{document}
+
+\frontmatter
+\tableofcontents
+
+\mainmatter
+\part{Introduzione}
+\input{temperature-di-cottura.tex}
+
+\newpage
+\part{Pane e lievitati}
+\input{./panini-hamburger-vivalafocaccia.tex}
+\input{./panini-hamburger-veloci.tex}
+\input{./crackers-al-sesamo.tex}
+
+\newpage
+\part{Pesce}
+\input{./risotto-alla-gallinella.tex}
+\input{./pesce-spada-al-salmoriglio.tex}
+\input{./tataki-di-tonno-agli-agrumi.tex}
+\input{./mini-hamburger-di-ricciola.tex}
+
+\newpage
+\part{Carne}
+\input{./polpettone.tex}
+\input{./nuggets-di-pollo.tex}
+
+\newpage
+\part{BBQ}
+\input{./eliche-di-pollo-al-curry.tex}
+\input{./smoked-chicken-wings.tex}
+\input{./bombette-pugliesi.tex}
+\input{./involtini-alla-siciliana.tex}
+
+\newpage
+\part{Cottura a bassa temperatura (CBT)}
+
+\input{./stinco-di-maiale-cbt.tex}
+\input{./vitello-tonnato-cbt.tex}
+
+\newpage
+\part{Dolci}
+\input{./pancake.tex}
+\input{./biscotti-di-natale.tex}
+
+
+
+%\newpage
+%\part{Indici}
+%\printindex
+\end{document}

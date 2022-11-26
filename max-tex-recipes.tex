@@ -1,0 +1,60 @@
+\documentclass{article}
+\usepackage{fancyhdr}
+\usepackage{multicol}
+
+% Your "recipes.sty" package starts here:
+\newcommand{\recipe}{%
+    \newpage\lhead{}\chead{}\rhead{}\lfoot{}\rfoot{}\section}
+\newcommand{\serves}[1]{%
+    \chead{Serves #1}}
+\newcommand{\vegetarian}{%
+    \rhead{V}}
+\newcommand{\preptime}[1]{%
+    \lfoot{Prep time: #1}}
+\newcommand{\cooktime}[1]{%
+    \rfoot{Cook time: #1}}
+\newcommand{\ingredients}[1][\Large\emph{Ingredients}]{%
+    \emph{#1}\\}
+\newcommand{\instructions}[1][\Large\emph{Instructions}]{%
+    \emph{#1}\\}
+\newcommand{\temp}[1]{%
+    $#1^\circ$C}
+
+\pagestyle{fancy}
+% End of "recipes.sty"
+
+\begin{document}
+\recipe{Raspberry Chocolate Tiramisu}
+\serves{4}
+\vegetarian
+
+\begin{multicols}{2}
+\ingredients
+\begin{itemize}
+    \item 100ml Double Strength Coffee
+    \item 400g Raspberries (blitzed)
+    \item 200g Mascarpone
+    \item 2 tbsp Sweetener
+    \item 1 tsp Vanilla Extract
+    \item 700g Vanilla Yogurt
+    \item 15g Dark Chocolate (finely grated)
+\end{itemize}
+\columnbreak
+\ingredients[For the Crumble Mixture:]
+\begin{itemize}
+    \item 80g Wholemeal Flour
+    \item 80g Plain Flour
+    \item 80g Butter (diced)
+    \item 70g Demerara Sugar
+\end{itemize}
+\end{multicols}
+
+\instructions
+Preheat the over to Gas Mark 4, Electric \temp{180}, Fan \temp{160}.
+\begin{enumerate}
+    \item Stir the two kinds of flour together in a bowl, add the butter and rub it into the flour. When the mixture looks like breadcrumbs, mix in the brown sugar. Lay the mixture on a shallow baking tray and bake for 25--30 minutes until golden brown. Leave on the side to cool.
+    \item Mix together the mascarpone, sweetener, vanilla extract, and three quarters of the chocolate. Put half the crumble mixture in each of the glasses and pour over half the quark mixture along with half the raspberries.
+    \item Put the other half of the crumble mixture on top, followed by the remaining quark mixture and raspberries. Sprinkle over the last of the chocolate. Chill for 3 hours before serving.
+\end{enumerate}
+
+\end{document}
