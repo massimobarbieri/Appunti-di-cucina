@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2022.11.26)  26 NOV 2022 17:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2022.11.12)  26 NOV 2022 18:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -109,7 +109,7 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 Package: babel 2022/09/17 3.80 The Babel package
 \babel@savecnt=\count269
 \U@D=\dimen148
-\l@unhyphenated=\language87
+\l@unhyphenated=\language6
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
@@ -487,7 +487,7 @@ Package hyperref Info: Link coloring OFF on input line 181.
  [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
-] (./ricette/risotto-alla-gallinella.tex
+] (./Ricette/Primi/risotto-alla-gallinella.tex
 [1
 
 ]
@@ -499,27 +499,27 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    Trying to load font information for U+ifclk on input line 2
 20.
  (/usr/share/texlive/texmf-dist/tex/latex/ifsym/uifclk.fd) [2]
-(./ricette/biscotti-di-natale.tex [3]) [4] (./ricettario.aux)
+(./Ricette/Dolci/biscotti-di-natale.tex [3]) [4] (./ricettario.aux)
 Package rerunfilecheck Info: File `ricettario.out' has not changed.
-(rerunfilecheck)             Checksum: EE9E40CD28F719B1EA045FE1EED2F260;517.
+(rerunfilecheck)             Checksum: 88AF61EF9083E39B3492F072D048A1A9;517.
  ) 
 Here is how much of TeX's memory you used:
- 11225 strings out of 475075
- 177158 string characters out of 5781541
- 552766 words of memory out of 5000000
- 32470 multiletter control sequences out of 15000+600000
+ 11228 strings out of 476983
+ 177325 string characters out of 5826912
+ 547903 words of memory out of 5000000
+ 32229 multiletter control sequences out of 15000+600000
  471987 words of font info for 38 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 72i,11n,77p,722b,450s stack positions out of 10000i,1000n,20000p,200000b,200000s
- </home/max/.texlive2022/texmf-var/fonts/pk/ljfour/public/ifsym/ifclk10.600pk
-> </home/max/.texlive2022/texmf-var/fonts/pk/ljfour/public/cookingsymbols/cooki
-ngsymbols.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.
-pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on ricettario.pdf (5 pages, 86570 bytes).
+ 36 hyphenation exceptions out of 8191
+ 72i,11n,77p,724b,450s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </home/mbarbieri/.texlive2022/texmf-var/fonts/pk/ljfour/public/ifsym/ifclk10
+.600pk> </home/mbarbieri/.texlive2022/texmf-var/fonts/pk/ljfour/public/cookings
+ymbols/cookingsymbols.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on ricettario.pdf (5 pages, 86571 bytes).
 PDF statistics:
  95 PDF objects out of 1000 (max. 8388607)
  71 compressed objects within 1 object stream
