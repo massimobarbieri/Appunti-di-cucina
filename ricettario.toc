@@ -2,3 +2,5 @@
 \babel@toc {italian}{}\relax 
 \contentsline {part}{I\hspace {1em}Pesce}{1}{part.1}%
 \contentsline {section}{\numberline {1}Risotto con gallinella di mare}{2}{section.1}%
+\contentsline {part}{II\hspace {1em}Dolci}{3}{part.2}%
+\contentsline {section}{\numberline {2}Biscotti di Natale}{4}{section.2}%
