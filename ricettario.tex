@@ -138,8 +138,10 @@
     \begingroup
     \parindent0pt
     \parskip0.25em
-        \leftskip2em
-    \everypar={\llap{\stepcounter{stepnum}\hbox to2em{\thestepnum.\hfill}}}
+% La riga seguente è l'indentazione del testo della ricetta
+%        \leftskip2em
+% La riga seguente numera i passaggi della ricetta
+%    \everypar={\llap{\stepcounter{stepnum}\hbox to2em{\thestepnum.\hfill}}}
 }{%
     \par
     \endgroup}
@@ -182,43 +184,42 @@
 
 \mainmatter
 \part{Introduzione}
-\input{temperature-di-cottura.tex}
+\input{ricette/temperature-di-cottura.tex}
 
 \newpage
 \part{Pane e lievitati}
-\input{./panini-hamburger-vivalafocaccia.tex}
-\input{./panini-hamburger-veloci.tex}
-\input{./crackers-al-sesamo.tex}
+\input{./ricette/panini-hamburger-veloci.tex}
+\input{./ricette/crackers-al-sesamo.tex}
 
 \newpage
 \part{Pesce}
-\input{./risotto-alla-gallinella.tex}
-\input{./pesce-spada-al-salmoriglio.tex}
-\input{./tataki-di-tonno-agli-agrumi.tex}
-\input{./mini-hamburger-di-ricciola.tex}
+\input{./ricette/risotto-alla-gallinella.tex}
+\input{./ricette/pesce-spada-al-salmoriglio.tex}
+\input{./ricette/tataki-di-tonno-agli-agrumi.tex}
+\input{./ricette/mini-hamburger-di-ricciola.tex}
 
 \newpage
 \part{Carne}
-\input{./polpettone.tex}
-\input{./nuggets-di-pollo.tex}
+\input{./ricette/polpettone.tex}
+\input{./ricette/nuggets-di-pollo.tex}
 
 \newpage
 \part{BBQ}
-\input{./eliche-di-pollo-al-curry.tex}
-\input{./smoked-chicken-wings.tex}
-\input{./bombette-pugliesi.tex}
-\input{./involtini-alla-siciliana.tex}
+\input{./ricette/eliche-di-pollo-al-curry.tex}
+\input{./ricette/smoked-chicken-wings.tex}
+\input{./ricette/bombette-pugliesi.tex}
+\input{./ricette/involtini-alla-siciliana.tex}
 
 \newpage
 \part{Cottura a bassa temperatura (CBT)}
 
-\input{./stinco-di-maiale-cbt.tex}
-\input{./vitello-tonnato-cbt.tex}
+\input{./ricette/stinco-di-maiale-cbt.tex}
+\input{./ricette/vitello-tonnato-cbt.tex}
 
 \newpage
 \part{Dolci}
-\input{./pancake.tex}
-\input{./biscotti-di-natale.tex}
+\input{./ricette/pancake.tex}
+\input{./ricette/biscotti-di-natale.tex}
 
 
 
