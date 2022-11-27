@@ -12,5 +12,6 @@
 \contentsline {section}{\numberline {6}Polpettone di manzo}{9}{section.6}%
 \contentsline {part}{V\hspace {1em}BBQ}{10}{part.5}%
 \contentsline {section}{\numberline {7}Eliche di pollo al curry}{11}{section.7}%
-\contentsline {part}{VI\hspace {1em}Dolci}{12}{part.6}%
-\contentsline {section}{\numberline {8}Biscotti di Natale}{13}{section.8}%
+\contentsline {section}{\numberline {8}Smoked chicken wings}{12}{section.8}%
+\contentsline {part}{VI\hspace {1em}Dolci}{13}{part.6}%
+\contentsline {section}{\numberline {9}Biscotti di Natale}{14}{section.9}%
