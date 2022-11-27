@@ -6,5 +6,7 @@
 \contentsline {section}{\numberline {2}Risotto con gallinella di mare}{4}{section.2}%
 \contentsline {part}{III\hspace {1em}Secondi di pesce}{4}{part.3}%
 \contentsline {section}{\numberline {3}Pesce spada al salmoriglio}{5}{section.3}%
-\contentsline {part}{IV\hspace {1em}Dolci}{6}{part.4}%
-\contentsline {section}{\numberline {4}Biscotti di Natale}{7}{section.4}%
+\contentsline {part}{IV\hspace {1em}Secondi di carne}{6}{part.4}%
+\contentsline {section}{\numberline {4}Nuggets di pollo}{7}{section.4}%
+\contentsline {part}{V\hspace {1em}Dolci}{8}{part.5}%
+\contentsline {section}{\numberline {5}Biscotti di Natale}{9}{section.5}%
