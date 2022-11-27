@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2022.11.26)  27 NOV 2022 15:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2022.11.26)  27 NOV 2022 16:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -487,7 +487,7 @@ Package hyperref Info: Link coloring OFF on input line 181.
  [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
-] (./Ricette/Primi/risotto-alla-gallinella.tex [1
+] (./Ricette/Antipasti/mini-hamburger-di-ricciola.tex [1
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -495,20 +495,21 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 1.
 )
-(./Ricette/Secondi-di-pesce/pesce-spada-al-salmoriglio.tex
 LaTeX Font Info:    Trying to load font information for U+ifclk on input line 1
-.
+99.
 
-(/usr/share/texlive/texmf-dist/tex/latex/ifsym/uifclk.fd) [2]) [3]
-(./Ricette/Dolci/biscotti-di-natale.tex [4]) [5] (./main.aux)
+(/usr/share/texlive/texmf-dist/tex/latex/ifsym/uifclk.fd) [2]
+(./Ricette/Primi/risotto-alla-gallinella.tex [3])
+(./Ricette/Secondi-di-pesce/pesce-spada-al-salmoriglio.tex [4]) [5]
+(./Ricette/Dolci/biscotti-di-natale.tex [6]) [7] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 08A052F8463F12173A337B8A55C2B981;854.
+(rerunfilecheck)             Checksum: DC19421D84AE685B149D3042C64BE3B6;1145.
  ) 
 Here is how much of TeX's memory you used:
- 11241 strings out of 475075
- 177607 string characters out of 5781541
- 552739 words of memory out of 5000000
- 32478 multiletter control sequences out of 15000+600000
+ 11253 strings out of 475075
+ 177911 string characters out of 5781541
+ 552743 words of memory out of 5000000
+ 32482 multiletter control sequences out of 15000+600000
  471987 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,11n,77p,718b,450s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -520,10 +521,10 @@ pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/sha
 re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (6 pages, 90390 bytes).
+Output written on main.pdf (8 pages, 95687 bytes).
 PDF statistics:
- 110 PDF objects out of 1000 (max. 8388607)
- 85 compressed objects within 1 object stream
- 14 named destinations out of 1000 (max. 500000)
- 49 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 131 PDF objects out of 1000 (max. 8388607)
+ 103 compressed objects within 2 object streams
+ 18 named destinations out of 1000 (max. 500000)
+ 65 words of extra memory for PDF output out of 10000 (max. 10000000)
 
