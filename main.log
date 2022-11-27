@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2022.11.26)  27 NOV 2022 16:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2022.11.26)  27 NOV 2022 17:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -487,7 +487,7 @@ Package hyperref Info: Link coloring OFF on input line 181.
  [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
-] (./Ricette/Antipasti/mini-hamburger-di-ricciola.tex [1
+] [2] (./Ricette/Antipasti/mini-hamburger-di-ricciola.tex [1
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -499,25 +499,80 @@ LaTeX Font Info:    Trying to load font information for U+ifclk on input line 1
 99.
 
 (/usr/share/texlive/texmf-dist/tex/latex/ifsym/uifclk.fd) [2]
-(./Ricette/Primi/risotto-alla-gallinella.tex [3])
-(./Ricette/Secondi-di-pesce/pesce-spada-al-salmoriglio.tex [4])
-(./Ricette/Secondi-di-pesce/tataki-di-tonno-agli-agrumi.tex [5]) [6]
-(./Ricette/Secondi-di-carne/nuggets-di-pollo.tex [7])
-(./Ricette/Secondi-di-carne/polpettone.tex [8]) [9]
-(./Ricette/Secondi-di-carne/eliche-di-pollo-al-curry.tex [10])
-(./Ricette/Secondi-di-carne/smoked-chicken-wings.tex [11]) [12]
-(./Ricette/Dolci/biscotti-di-natale.tex [13]) [14] (./main.aux)
+(./Ricette/Salse/salsa-bbq.tex [3])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.0pt}.
+
+[4] (./Ricette/Primi/risotto-alla-gallinella.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.0pt}.
+
+[5]) (./Ricette/Secondi-di-pesce/pesce-spada-al-salmoriglio.tex [6])
+(./Ricette/Secondi-di-pesce/tataki-di-tonno-agli-agrumi.tex [7]) [8]
+(./Ricette/Secondi-di-carne/nuggets-di-pollo.tex [9])
+(./Ricette/Secondi-di-carne/polpettone.tex [10]) [11]
+(./Ricette/Secondi-di-carne/bombette-pugliesi.tex [12])
+(./Ricette/Secondi-di-carne/eliche-di-pollo-al-curry.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.0pt}.
+
+[13]) (./Ricette/Secondi-di-carne/involtini-alla-siciliana.tex [14])
+(./Ricette/Secondi-di-carne/smoked-chicken-wings.tex [15])
+(./Ricette/CBT/stinco-di-maiale-cbt.tex [16])
+(./Ricette/CBT/vitello-tonnato-cbt.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.0pt}.
+
+[17])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.0pt}.
+
+[18] (./Ricette/Dolci/pancake.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.0pt}.
+
+[19]) (./Ricette/Dolci/biscotti-di-natale.tex [20]) [21] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 7E15A27C807E7DA8CDB84A0F5B53A001;2213.
+(rerunfilecheck)             Checksum: 372108E433D433F46193E986F9D4F907;3350.
  ) 
 Here is how much of TeX's memory you used:
- 11306 strings out of 475075
- 179523 string characters out of 5781541
- 552751 words of memory out of 5000000
- 32505 multiletter control sequences out of 15000+600000
+ 11362 strings out of 475075
+ 180907 string characters out of 5781541
+ 554800 words of memory out of 5000000
+ 32526 multiletter control sequences out of 15000+600000
  471987 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,11n,77p,718b,452s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,12n,77p,718b,452s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/max/.texlive2022/texmf-var/fonts/pk/ljfour/public/ifsym/ifclk10.600pk
 > </home/max/.texlive2022/texmf-var/fonts/pk/ljfour/public/cookingsymbols/cooki
 ngsymbols.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
@@ -526,10 +581,10 @@ pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/sha
 re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (15 pages, 110089 bytes).
+Output written on main.pdf (23 pages, 124040 bytes).
 PDF statistics:
- 198 PDF objects out of 1000 (max. 8388607)
- 163 compressed objects within 2 object streams
- 32 named destinations out of 1000 (max. 500000)
- 121 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 272 PDF objects out of 1000 (max. 8388607)
+ 228 compressed objects within 3 object streams
+ 47 named destinations out of 1000 (max. 500000)
+ 177 words of extra memory for PDF output out of 10000 (max. 10000000)
 
