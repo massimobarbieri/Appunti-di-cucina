@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2022.11.12)  27 NOV 2022 18:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2022.11.12)  27 NOV 2022 18:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -561,7 +561,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.0pt}.
 
-[19] (./Ricette/Dolci/pancake.tex
+[19] (./Ricette/Dolci/barrette-energetiche.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.0pt, for example:
@@ -570,15 +570,24 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.0pt}.
 
-[20]) (./Ricette/Dolci/biscotti-di-natale.tex [21]) [22] (./main.aux)
+[20]) (./Ricette/Dolci/pancake.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.0pt}.
+
+[21]) (./Ricette/Dolci/biscotti-di-natale.tex [22]) [23] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 3BBDF24918864FF7239BF577AF77C34D;3500.
+(rerunfilecheck)             Checksum: 7EB88411888C5E24EC0573F5F75BB010;3654.
  ) 
 Here is how much of TeX's memory you used:
- 11371 strings out of 476983
- 181134 string characters out of 5826912
+ 11381 strings out of 476983
+ 181438 string characters out of 5826912
  549937 words of memory out of 5000000
- 32287 multiletter control sequences out of 15000+600000
+ 32292 multiletter control sequences out of 15000+600000
  471987 words of font info for 38 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  72i,12n,77p,718b,586s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -590,10 +599,10 @@ s/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.p
 fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (24 pages, 125359 bytes).
+Output written on main.pdf (25 pages, 126536 bytes).
 PDF statistics:
- 282 PDF objects out of 1000 (max. 8388607)
- 237 compressed objects within 3 object streams
- 49 named destinations out of 1000 (max. 500000)
- 185 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 292 PDF objects out of 1000 (max. 8388607)
+ 246 compressed objects within 3 object streams
+ 51 named destinations out of 1000 (max. 500000)
+ 193 words of extra memory for PDF output out of 10000 (max. 10000000)
 
