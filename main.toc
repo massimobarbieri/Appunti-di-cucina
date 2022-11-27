@@ -3,22 +3,23 @@
 \contentsline {part}{I\hspace {1em}Antipasti}{1}{part.1}%
 \contentsline {section}{\numberline {1}Mini hamburger di ricciola}{2}{section.1}%
 \contentsline {part}{II\hspace {1em}Sale e preparazioni di base}{3}{part.2}%
-\contentsline {section}{\numberline {2}Salsa BBQ all'abicocca}{4}{section.2}%
-\contentsline {part}{III\hspace {1em}Primi}{5}{part.3}%
-\contentsline {section}{\numberline {3}Risotto con gallinella di mare}{6}{section.3}%
-\contentsline {part}{IV\hspace {1em}Secondi di pesce}{6}{part.4}%
-\contentsline {section}{\numberline {4}Pesce spada al salmoriglio}{7}{section.4}%
-\contentsline {section}{\numberline {5}Tataki di tonno fagioli e cipolla}{8}{section.5}%
-\contentsline {part}{V\hspace {1em}Secondi di carne}{9}{part.5}%
-\contentsline {section}{\numberline {6}Nuggets di pollo}{10}{section.6}%
-\contentsline {section}{\numberline {7}Polpettone di manzo}{11}{section.7}%
-\contentsline {part}{VI\hspace {1em}BBQ}{12}{part.6}%
-\contentsline {section}{\numberline {8}Bombette pugliesi}{13}{section.8}%
-\contentsline {section}{\numberline {9}Eliche di pollo al curry}{14}{section.9}%
-\contentsline {section}{\numberline {10}Involtini di carne alla siciliana}{15}{section.10}%
-\contentsline {section}{\numberline {11}Chicken wings}{16}{section.11}%
-\contentsline {section}{\numberline {12}Stinco di maiale (CBT)}{17}{section.12}%
-\contentsline {section}{\numberline {13}Vitello tonnato (CBT)}{18}{section.13}%
-\contentsline {part}{VII\hspace {1em}Dolci}{19}{part.7}%
-\contentsline {section}{\numberline {14}Pancake}{20}{section.14}%
-\contentsline {section}{\numberline {15}Biscotti di Natale}{21}{section.15}%
+\contentsline {section}{\numberline {2}Rub: My Magic Dust}{4}{section.2}%
+\contentsline {section}{\numberline {3}Salsa BBQ all'abicocca}{5}{section.3}%
+\contentsline {part}{III\hspace {1em}Primi}{6}{part.3}%
+\contentsline {section}{\numberline {4}Risotto con gallinella di mare}{7}{section.4}%
+\contentsline {part}{IV\hspace {1em}Secondi di pesce}{7}{part.4}%
+\contentsline {section}{\numberline {5}Pesce spada al salmoriglio}{8}{section.5}%
+\contentsline {section}{\numberline {6}Tataki di tonno fagioli e cipolla}{9}{section.6}%
+\contentsline {part}{V\hspace {1em}Secondi di carne}{10}{part.5}%
+\contentsline {section}{\numberline {7}Nuggets di pollo}{11}{section.7}%
+\contentsline {section}{\numberline {8}Polpettone di manzo}{12}{section.8}%
+\contentsline {part}{VI\hspace {1em}BBQ}{13}{part.6}%
+\contentsline {section}{\numberline {9}Bombette pugliesi}{14}{section.9}%
+\contentsline {section}{\numberline {10}Eliche di pollo al curry}{15}{section.10}%
+\contentsline {section}{\numberline {11}Involtini di carne alla siciliana}{16}{section.11}%
+\contentsline {section}{\numberline {12}Chicken wings}{17}{section.12}%
+\contentsline {section}{\numberline {13}Stinco di maiale (CBT)}{18}{section.13}%
+\contentsline {section}{\numberline {14}Vitello tonnato (CBT)}{19}{section.14}%
+\contentsline {part}{VII\hspace {1em}Dolci}{20}{part.7}%
+\contentsline {section}{\numberline {15}Pancake}{21}{section.15}%
+\contentsline {section}{\numberline {16}Biscotti di Natale}{22}{section.16}%
