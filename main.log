@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2022.11.26)  27 NOV 2022 16:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2022.11.26)  27 NOV 2022 16:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -500,18 +500,19 @@ LaTeX Font Info:    Trying to load font information for U+ifclk on input line 1
 
 (/usr/share/texlive/texmf-dist/tex/latex/ifsym/uifclk.fd) [2]
 (./Ricette/Primi/risotto-alla-gallinella.tex [3])
-(./Ricette/Secondi-di-pesce/pesce-spada-al-salmoriglio.tex [4]) [5]
-(./Ricette/Secondi-di-carne/nuggets-di-pollo.tex [6])
-(./Ricette/Secondi-di-carne/polpettone.tex [7]) [8]
-(./Ricette/Dolci/biscotti-di-natale.tex [9]) [10] (./main.aux)
+(./Ricette/Secondi-di-pesce/pesce-spada-al-salmoriglio.tex [4])
+(./Ricette/Secondi-di-pesce/tataki-di-tonno-agli-agrumi.tex [5]) [6]
+(./Ricette/Secondi-di-carne/nuggets-di-pollo.tex [7])
+(./Ricette/Secondi-di-carne/polpettone.tex [8]) [9]
+(./Ricette/Dolci/biscotti-di-natale.tex [10]) [11] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 00CD78CE55D8B8A948BFF0FC99CD9346;1571.
+(rerunfilecheck)             Checksum: CB186A698B18C0B9ED4865A3A2773E18;1801.
  ) 
 Here is how much of TeX's memory you used:
- 11276 strings out of 475075
- 178534 string characters out of 5781541
+ 11287 strings out of 475075
+ 178956 string characters out of 5781541
  552748 words of memory out of 5000000
- 32492 multiletter control sequences out of 15000+600000
+ 32498 multiletter control sequences out of 15000+600000
  471987 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,11n,77p,718b,452s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -523,10 +524,10 @@ pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/sha
 re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (11 pages, 101369 bytes).
+Output written on main.pdf (12 pages, 104806 bytes).
 PDF statistics:
- 159 PDF objects out of 1000 (max. 8388607)
- 128 compressed objects within 2 object streams
- 24 named destinations out of 1000 (max. 500000)
- 89 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 169 PDF objects out of 1000 (max. 8388607)
+ 137 compressed objects within 2 object streams
+ 26 named destinations out of 1000 (max. 500000)
+ 97 words of extra memory for PDF output out of 10000 (max. 10000000)
 
