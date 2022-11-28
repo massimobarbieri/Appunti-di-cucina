@@ -63,8 +63,10 @@
         \end{center}
     \fi
 }
-\newcommand{\serves}[2][Porzioni \Fork\Dish\Knife]{%
-    \chead{#1 #2}}
+\newcommand{\serves}[2][\Fork\Dish\Knife]{%
+	#1 #2 \newline
+    %\chead{#1 #2}
+    }
 \newcommand{\vegetarian}{%
     \rhead{\large\color{vegcolor}\textbf{V}}}
 \newcommand{\cbt}{%
@@ -72,11 +74,13 @@
 \newcommand{\freeze}{%
     \lhead{\large\color{frzcolor}\textbf{F}}}
 %% Optional arguments for alternate names for these:
-\newcommand{\preptime}[2][\Interval]{%
-    \lfoot{#1 #2}%
+\newcommand{\preptime}[2][\Gloves]{%
+	#1 #2 \newline
+	%\lfoot{#1 #2}%
 }
-\newcommand{\cooktime}[2][Cottura]{%
-    \rfoot{#1: #2}%
+\newcommand{\cooktime}[2][\Interval]{%
+	#1 #2 \newline
+	% \rfoot{#1: #2}%
 }
 \newcommand{\temp}[1]{%
     $#1^\circ$C}
@@ -95,6 +99,8 @@
 %% Optional argument for a  heading within the ingredients section
 \newcommand{\ingredients}[1][]{%
     \if###1##%
+    \newline
+    \newline
         {\color{red}\Large\textbf{Ingredienti}}%
     \else
         \emph{#1}%
@@ -179,7 +185,6 @@
 
 
 \begin{document}
-
 \frontmatter
 \tableofcontents
 
