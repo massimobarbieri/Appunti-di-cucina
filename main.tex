@@ -63,10 +63,6 @@
         \end{center}
     \fi
 }
-\newcommand{\serves}[2][\Fork\Dish\Knife]{%
-	#1 #2 \newline
-    %\chead{#1 #2}
-    }
 \newcommand{\vegetarian}{%
     \rhead{\large\color{vegcolor}\textbf{V}}}
 \newcommand{\cbt}{%
@@ -74,6 +70,10 @@
 \newcommand{\freeze}{%
     \lhead{\large\color{frzcolor}\textbf{F}}}
 %% Optional arguments for alternate names for these:
+\newcommand{\serves}[2][\Fork\Dish\Knife]{%
+	#1 #2 porzioni\newline
+    %\chead{#1 #2}
+    }
 \newcommand{\preptime}[2][\Gloves]{%
 	#1 #2 \newline
 	%\lfoot{#1 #2}%
