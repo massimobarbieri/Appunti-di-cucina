@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2022.11.11)  28 NOV 2022 12:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2022.11.11)  28 NOV 2022 12:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -494,11 +494,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--5
-
- []
-
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 18.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -508,31 +503,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--5
-
- []
-
 ) [3] (./Ricette/Antipasti/mini-hamburger-di-ricciola.tex [4]
-LaTeX Font Info:    Trying to load font information for U+ifclk on input line 4
-.
-
-(/usr/share/texlive/texmf-dist/tex/latex/ifsym/uifclk.fd)
-Underfull \hbox (badness 10000) in paragraph at lines 2--5
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
 
 ) [5] (./Ricette/Salse/my-magic-dust.tex [6]
-Underfull \hbox (badness 10000) in paragraph at lines 2--6
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 2--6
 
  []
@@ -547,11 +523,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.0pt}.
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 2--6
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 2--6
 
  []
@@ -579,17 +550,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--5
-
- []
-
 ) [10] (./Ricette/Secondi-di-pesce/pesce-spada-al-salmoriglio.tex [11]
-Underfull \hbox (badness 10000) in paragraph at lines 2--5
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 6--6
 
  []
@@ -599,17 +560,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--5
-
- []
-
 ) [13] (./Ricette/Secondi-di-carne/nuggets-di-pollo.tex [14]
-Underfull \hbox (badness 10000) in paragraph at lines 2--5
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
@@ -619,17 +570,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--5
-
- []
-
 ) [16] (./Ricette/BBQ/bombette-pugliesi.tex [17]
-Underfull \hbox (badness 10000) in paragraph at lines 2--7
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 2--7
 
  []
@@ -648,17 +589,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--5
-
- []
-
 ) (./Ricette/BBQ/involtini-alla-siciliana.tex [19]
-Underfull \hbox (badness 10000) in paragraph at lines 2--5
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
@@ -668,17 +599,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--5
-
- []
-
 ) [21] (./Ricette/CBT/stinco-di-maiale-cbt.tex [22]
-Underfull \hbox (badness 10000) in paragraph at lines 2--6
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 2--6
 
  []
@@ -693,11 +614,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.0pt}.
 
 [23]
-Underfull \hbox (badness 10000) in paragraph at lines 2--6
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 2--6
 
  []
@@ -725,11 +641,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--7
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--7
-
- []
-
 ) (./Ricette/Dolci/pancake.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -744,17 +655,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--5
-
- []
-
 ) (./Ricette/Dolci/biscotti-di-natale.tex [27]
-Underfull \hbox (badness 10000) in paragraph at lines 2--5
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
@@ -764,25 +665,24 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: E82B3452BCBC9016707BEA6575CB7DFA;4393.
  ) 
 Here is how much of TeX's memory you used:
- 11409 strings out of 476983
- 181897 string characters out of 5826912
- 550025 words of memory out of 5000000
- 32303 multiletter control sequences out of 15000+600000
- 471987 words of font info for 38 fonts, out of 8000000 for 9000
+ 11397 strings out of 476983
+ 181679 string characters out of 5826912
+ 550023 words of memory out of 5000000
+ 32295 multiletter control sequences out of 15000+600000
+ 471812 words of font info for 37 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  72i,12n,77p,718b,586s stack positions out of 10000i,1000n,20000p,200000b,200000s
- </home/mbarbieri/.texlive2022/texmf-var/fonts/pk/ljfour/public/ifsym/ifclk10
-.600pk> </home/mbarbieri/.texlive2022/texmf-var/fonts/pk/ljfour/public/cookings
-ymbols/cookingsymbols.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.p
-fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (30 pages, 130678 bytes).
+ </home/mbarbieri/.texlive2022/texmf-var/fonts/pk/ljfour/public/cookingsymbol
+s/cookingsymbols.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on main.pdf (30 pages, 130371 bytes).
 PDF statistics:
- 336 PDF objects out of 1000 (max. 8388607)
- 284 compressed objects within 3 object streams
+ 332 PDF objects out of 1000 (max. 8388607)
+ 280 compressed objects within 3 object streams
  60 named destinations out of 1000 (max. 500000)
  225 words of extra memory for PDF output out of 10000 (max. 10000000)
 
