@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2022.11.11)  28 NOV 2022 08:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2022.11.11)  28 NOV 2022 09:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -584,10 +584,10 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 8844A77E0264D785826634F26CFBAA24;3906.
  ) 
 Here is how much of TeX's memory you used:
- 11384 strings out of 476983
- 181459 string characters out of 5826912
- 549940 words of memory out of 5000000
- 32293 multiletter control sequences out of 15000+600000
+ 11385 strings out of 476983
+ 181475 string characters out of 5826912
+ 549981 words of memory out of 5000000
+ 32294 multiletter control sequences out of 15000+600000
  471987 words of font info for 38 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  72i,12n,77p,718b,586s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -599,10 +599,10 @@ s/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.p
 fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (26 pages, 127247 bytes).
+Output written on main.pdf (26 pages, 127296 bytes).
 PDF statistics:
- 301 PDF objects out of 1000 (max. 8388607)
- 254 compressed objects within 3 object streams
+ 302 PDF objects out of 1000 (max. 8388607)
+ 255 compressed objects within 3 object streams
  53 named destinations out of 1000 (max. 500000)
  201 words of extra memory for PDF output out of 10000 (max. 10000000)
 
