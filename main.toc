@@ -1,30 +1,30 @@
 \babel@toc {italian}{}\relax 
 \babel@toc {italian}{}\relax 
-\contentsline {part}{I\hspace {1em}Pane e lievitati}{1}{part.1}%
-\contentsline {section}{\numberline {0.1}Crackers al sesamo}{2}{section.0.1}%
-\contentsline {section}{\numberline {0.2}Panini da hamburgher veloci}{3}{section.0.2}%
-\contentsline {part}{II\hspace {1em}Antipasti}{4}{part.2}%
-\contentsline {section}{\numberline {0.3}Mini hamburger di ricciola}{5}{section.0.3}%
-\contentsline {part}{III\hspace {1em}Sale e preparazioni di base}{6}{part.3}%
-\contentsline {section}{\numberline {0.4}Rub: My Magic Dust}{7}{section.0.4}%
-\contentsline {section}{\numberline {0.5}Salsa BBQ all'abicocca}{8}{section.0.5}%
-\contentsline {part}{IV\hspace {1em}Primi}{9}{part.4}%
-\contentsline {section}{\numberline {0.6}Risotto con gallinella di mare}{10}{section.0.6}%
-\contentsline {part}{V\hspace {1em}Secondi di pesce}{11}{part.5}%
-\contentsline {section}{\numberline {0.7}Pesce spada al salmoriglio}{12}{section.0.7}%
-\contentsline {section}{\numberline {0.8}Tataki di tonno fagioli e cipolla}{13}{section.0.8}%
-\contentsline {part}{VI\hspace {1em}Secondi di carne}{14}{part.6}%
-\contentsline {section}{\numberline {0.9}Nuggets di pollo}{15}{section.0.9}%
-\contentsline {section}{\numberline {0.10}Polpettone di manzo}{16}{section.0.10}%
-\contentsline {part}{VII\hspace {1em}BBQ}{17}{part.7}%
-\contentsline {section}{\numberline {0.11}Bombette pugliesi}{18}{section.0.11}%
-\contentsline {section}{\numberline {0.12}Eliche di pollo al curry}{19}{section.0.12}%
-\contentsline {section}{\numberline {0.13}Involtini di carne alla siciliana}{20}{section.0.13}%
-\contentsline {section}{\numberline {0.14}Chicken wings}{21}{section.0.14}%
-\contentsline {part}{VIII\hspace {1em}Cottura a bassa temperatura (CBT)}{22}{part.8}%
-\contentsline {section}{\numberline {0.15}Stinco di maiale (CBT)}{23}{section.0.15}%
-\contentsline {section}{\numberline {0.16}Vitello tonnato (CBT)}{24}{section.0.16}%
-\contentsline {part}{IX\hspace {1em}Dolci}{25}{part.9}%
-\contentsline {section}{\numberline {0.17}Barrette energetiche}{26}{section.0.17}%
-\contentsline {section}{\numberline {0.18}Pancake}{27}{section.0.18}%
-\contentsline {section}{\numberline {0.19}Biscotti di Natale}{28}{section.0.19}%
+\contentsline {chapter}{\numberline {1}Pane e lievitati}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Crackers al sesamo}{2}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Panini da hamburgher veloci}{3}{section.1.2}%
+\contentsline {chapter}{\numberline {2}Antipasti}{4}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Mini hamburger di ricciola}{5}{section.2.1}%
+\contentsline {chapter}{\numberline {3}Sale e preparazioni di base}{6}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Rub: My Magic Dust}{7}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Salsa BBQ all'abicocca}{8}{section.3.2}%
+\contentsline {chapter}{\numberline {4}Primi}{9}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Risotto con gallinella di mare}{10}{section.4.1}%
+\contentsline {chapter}{\numberline {5}Secondi di pesce}{11}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Pesce spada al salmoriglio}{12}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Tataki di tonno fagioli e cipolla}{13}{section.5.2}%
+\contentsline {chapter}{\numberline {6}Secondi di carne}{14}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Nuggets di pollo}{15}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Polpettone di manzo}{16}{section.6.2}%
+\contentsline {chapter}{\numberline {7}BBQ}{17}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Bombette pugliesi}{18}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Eliche di pollo al curry}{19}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Involtini di carne alla siciliana}{20}{section.7.3}%
+\contentsline {section}{\numberline {7.4}Chicken wings}{21}{section.7.4}%
+\contentsline {chapter}{\numberline {8}Cottura a bassa temperatura (CBT)}{22}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Stinco di maiale (CBT)}{23}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Vitello tonnato (CBT)}{24}{section.8.2}%
+\contentsline {chapter}{\numberline {9}Dolci}{25}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Barrette energetiche}{26}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Pancake}{27}{section.9.2}%
+\contentsline {section}{\numberline {9.3}Biscotti di Natale}{28}{section.9.3}%

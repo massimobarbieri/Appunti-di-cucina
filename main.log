@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2022.11.11)  28 NOV 2022 13:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2022.11.28)  29 NOV 2022 15:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -110,7 +110,7 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 Package: babel 2022/09/17 3.80 The Babel package
 \babel@savecnt=\count270
 \U@D=\dimen148
-\l@unhyphenated=\language6
+\l@unhyphenated=\language10
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
@@ -486,23 +486,20 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 4.
+)
+\tf@toc=\write5
+\openout5 = `main.toc'.
+
  [1
 
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
-\tf@toc=\write5
-\openout5 = `main.toc'.
-
- [2] [1
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Capitolo 1.
+(./Ricette/Pane-e-lievitati/crackers-al-sesamo.tex [1
 
 
-] (./Ricette/Pane-e-lievitati/crackers-al-sesamo.tex
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1.
-
-
+]
 Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
@@ -512,26 +509,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
 
-) [3] [4
+) [3]
+Capitolo 2.
+(./Ricette/Antipasti/mini-hamburger-di-ricciola.tex [4
 
-] (./Ricette/Antipasti/mini-hamburger-di-ricciola.tex
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1.
-
-
+]
 Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
 
-) [5] [6
+) [5]
+Capitolo 3.
+(./Ricette/Salse/my-magic-dust.tex [6
 
-] (./Ricette/Salse/my-magic-dust.tex
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1.
-
-
+]
 Underfull \hbox (badness 10000) in paragraph at lines 2--6
 
  []
@@ -559,26 +550,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.0pt}.
 
-[8] [9
+[8]
+Capitolo 4.
+(./Ricette/Primi/risotto-alla-gallinella.tex [9
 
-] (./Ricette/Primi/risotto-alla-gallinella.tex
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1.
-
-
+]
 Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
 
-) [10] [11
+) [10]
+Capitolo 5.
+(./Ricette/Secondi-di-pesce/pesce-spada-al-salmoriglio.tex [11
 
-] (./Ricette/Secondi-di-pesce/pesce-spada-al-salmoriglio.tex
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1.
-
-
+]
 Underfull \hbox (badness 10000) in paragraph at lines 6--6
 
  []
@@ -588,14 +573,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
 
-) [13] [14
+) [13]
+Capitolo 6.
+(./Ricette/Secondi-di-carne/nuggets-di-pollo.tex [14
 
-] (./Ricette/Secondi-di-carne/nuggets-di-pollo.tex
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1.
-
-
+]
 Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
@@ -605,14 +587,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
 
-) [16] [17
+) [16]
+Capitolo 7.
+(./Ricette/BBQ/bombette-pugliesi.tex [17
 
-] (./Ricette/BBQ/bombette-pugliesi.tex
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1.
-
-
+]
 Underfull \hbox (badness 10000) in paragraph at lines 2--7
 
  []
@@ -641,14 +620,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
 
-) [21] [22
+) [21]
+Capitolo 8.
+(./Ricette/CBT/stinco-di-maiale-cbt.tex [22
 
-] (./Ricette/CBT/stinco-di-maiale-cbt.tex
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1.
-
-
+]
 Underfull \hbox (badness 10000) in paragraph at lines 2--6
 
  []
@@ -676,14 +652,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.0pt}.
 
-[24] [25
+[24]
+Capitolo 9.
+(./Ricette/Dolci/barrette-energetiche.tex [25
 
-] (./Ricette/Dolci/barrette-energetiche.tex
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1.
-
-
+]
 Underfull \hbox (badness 10000) in paragraph at lines 2--7
 
  []
@@ -709,26 +682,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
 ) [28] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 0D984879A206440260A77D4AA3D12E5F;4496.
+(rerunfilecheck)             Checksum: 12E5FC493D15076639B6504D0285739A;4333.
  ) 
 Here is how much of TeX's memory you used:
- 11412 strings out of 476983
- 181927 string characters out of 5826912
- 553510 words of memory out of 5000000
- 32310 multiletter control sequences out of 15000+600000
- 472409 words of font info for 39 fonts, out of 8000000 for 9000
- 36 hyphenation exceptions out of 8191
- 72i,12n,77p,718b,602s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 11409 strings out of 476910
+ 181917 string characters out of 5825330
+ 555733 words of memory out of 5000000
+ 32315 multiletter control sequences out of 15000+600000
+ 472364 words of font info for 39 fonts, out of 8000000 for 9000
+ 81 hyphenation exceptions out of 8191
+ 72i,12n,77p,718b,452s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/mbarbieri/.texlive2022/texmf-var/fonts/pk/ljfour/public/cookingsymbol
 s/cookingsymbols.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.
+ts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (30 pages, 111219 bytes).
+Output written on main.pdf (29 pages, 117735 bytes).
 PDF statistics:
- 327 PDF objects out of 1000 (max. 8388607)
- 277 compressed objects within 3 object streams
- 60 named destinations out of 1000 (max. 500000)
+ 323 PDF objects out of 1000 (max. 8388607)
+ 274 compressed objects within 3 object streams
+ 59 named destinations out of 1000 (max. 500000)
  225 words of extra memory for PDF output out of 10000 (max. 10000000)
 
