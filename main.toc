@@ -31,5 +31,6 @@
 \contentsline {section}{\numberline {9.2}Bigné (Pasta choux)}{29}{section.9.2}%
 \contentsline {section}{\numberline {9.3}Cioccolata in tazza}{30}{section.9.3}%
 \contentsline {section}{\numberline {9.4}Crema pasticcera}{31}{section.9.4}%
-\contentsline {section}{\numberline {9.5}Pancake}{32}{section.9.5}%
-\contentsline {section}{\numberline {9.6}Biscotti di Natale}{33}{section.9.6}%
+\contentsline {section}{\numberline {9.5}Crostata di limone e mandorle}{32}{section.9.5}%
+\contentsline {section}{\numberline {9.6}Pancake}{33}{section.9.6}%
+\contentsline {section}{\numberline {9.7}Biscotti di Natale}{34}{section.9.7}%
