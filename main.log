@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2022.11.28)  29 NOV 2022 16:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2022.11.28)  29 NOV 2022 16:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -486,15 +486,15 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 4.
-)
-\tf@toc=\write5
-\openout5 = `main.toc'.
-
  [1
 
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
+\tf@toc=\write5
+\openout5 = `main.toc'.
+
+ [2]
 Capitolo 1.
 (./Ricette/Pane-e-lievitati/crackers-al-sesamo.tex [1
 
@@ -675,44 +675,50 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--7
 
  []
 
-) (./Ricette/Dolci/crema-pasticcera.tex [27]
+) (./Ricette/Dolci/cioccolata-in-tazza.tex [27]
 Underfull \hbox (badness 10000) in paragraph at lines 2--7
 
  []
 
-) (./Ricette/Dolci/pancake.tex [28]
+) (./Ricette/Dolci/crema-pasticcera.tex [28]
+Underfull \hbox (badness 10000) in paragraph at lines 2--7
+
+ []
+
+) (./Ricette/Dolci/pancake.tex [29]
 Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
 
-) (./Ricette/Dolci/biscotti-di-natale.tex [29]
+) (./Ricette/Dolci/biscotti-di-natale.tex [30]
 Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
 
-) [30] (./main.aux)
+) [31] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 93EF93D69D07155D15CA616D26417F51;4636.
+(rerunfilecheck)             Checksum: EDA27E2BF7B06EA063991030D5539AB9;4792.
  ) 
 Here is how much of TeX's memory you used:
- 11435 strings out of 476910
- 182448 string characters out of 5825330
+ 11444 strings out of 476910
+ 182713 string characters out of 5825330
  556777 words of memory out of 5000000
- 32328 multiletter control sequences out of 15000+600000
+ 32332 multiletter control sequences out of 15000+600000
  472717 words of font info for 40 fonts, out of 8000000 for 9000
  81 hyphenation exceptions out of 8191
- 72i,12n,77p,718b,452s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,12n,77p,718b,600s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/mbarbieri/.texlive2022/texmf-var/fonts/pk/ljfour/public/cookingsymbol
 s/cookingsymbols.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.
-pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (32 pages, 130540 bytes).
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on main.pdf (33 pages, 140335 bytes).
 PDF statistics:
- 354 PDF objects out of 1000 (max. 8388607)
- 300 compressed objects within 3 object streams
- 65 named destinations out of 1000 (max. 500000)
- 241 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 370 PDF objects out of 1000 (max. 8388607)
+ 312 compressed objects within 4 object streams
+ 67 named destinations out of 1000 (max. 500000)
+ 249 words of extra memory for PDF output out of 10000 (max. 10000000)
 
