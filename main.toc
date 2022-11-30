@@ -25,14 +25,15 @@
 \contentsline {section}{\numberline {7.4}Pollo marinato agli agrumi}{23}{section.7.4}%
 \contentsline {section}{\numberline {7.5}Chicken wings}{24}{section.7.5}%
 \contentsline {chapter}{\numberline {8}Cottura a bassa temperatura (CBT)}{25}{chapter.8}%
-\contentsline {section}{\numberline {8.1}Stinco di maiale (CBT)}{26}{section.8.1}%
-\contentsline {section}{\numberline {8.2}Vitello tonnato (CBT)}{27}{section.8.2}%
-\contentsline {chapter}{\numberline {9}Dolci}{28}{chapter.9}%
-\contentsline {section}{\numberline {9.1}Barrette energetiche}{29}{section.9.1}%
-\contentsline {section}{\numberline {9.2}Bigné (Pasta choux)}{30}{section.9.2}%
-\contentsline {section}{\numberline {9.3}Cassatine siciliane}{31}{section.9.3}%
-\contentsline {section}{\numberline {9.4}Cioccolata in tazza}{32}{section.9.4}%
-\contentsline {section}{\numberline {9.5}Crema pasticcera}{33}{section.9.5}%
-\contentsline {section}{\numberline {9.6}Crostata di limone e mandorle}{34}{section.9.6}%
-\contentsline {section}{\numberline {9.7}Pancake}{35}{section.9.7}%
-\contentsline {section}{\numberline {9.8}Biscotti di Natale}{36}{section.9.8}%
+\contentsline {section}{\numberline {8.1}Beef ribs (CBT)}{26}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Stinco di maiale (CBT)}{27}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Vitello tonnato (CBT)}{28}{section.8.3}%
+\contentsline {chapter}{\numberline {9}Dolci}{29}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Barrette energetiche}{30}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Bigné (Pasta choux)}{31}{section.9.2}%
+\contentsline {section}{\numberline {9.3}Cassatine siciliane}{32}{section.9.3}%
+\contentsline {section}{\numberline {9.4}Cioccolata in tazza}{33}{section.9.4}%
+\contentsline {section}{\numberline {9.5}Crema pasticcera}{34}{section.9.5}%
+\contentsline {section}{\numberline {9.6}Crostata di limone e mandorle}{35}{section.9.6}%
+\contentsline {section}{\numberline {9.7}Pancake}{36}{section.9.7}%
+\contentsline {section}{\numberline {9.8}Biscotti di Natale}{37}{section.9.8}%
