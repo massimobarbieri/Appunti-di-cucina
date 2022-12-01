@@ -1,13 +1,9 @@
 #!/bin/bash
 #
-MAIN="main.tex"
-PDF="main.pdf"
-BOOK="MyHack-Recipe-Book.pdf"
+MAIN="appunti-di-cucina"
 PDFVIEWER="evince"
 
-
-latex $MAIN
-latex $MAIN
-pdflatex $MAIN
-mv $PDF $BOOK
-$PDFVIEWER $BOOK
+latex  -synctex=1 -interaction=nonstopmode $MAIN.tex
+latex  -synctex=1 -interaction=nonstopmode $MAIN.tex
+pdflatex  -synctex=1 -interaction=nonstopmode $MAIN.tex
+$PDFVIEWER $MAIN.pdf
