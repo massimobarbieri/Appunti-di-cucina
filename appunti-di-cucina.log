@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2022.11.28)  30 NOV 2022 18:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2022.11.28)  1 DEC 2022 09:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**main.tex
-(./main.tex
+**appunti-di-cucina.tex
+(./appunti-di-cucina.tex
 LaTeX2e <2022-06-01> patch level 5
 L3 programming layer <2022-08-30>
 (/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
@@ -377,18 +377,18 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 \Hy@SectionHShift=\skip63
 )
 \@indexfile=\write3
-\openout3 = `main.idx'.
+\openout3 = `appunti-di-cucina.idx'.
 
 
-Writing index file main.idx
+Writing index file appunti-di-cucina.idx
 \c@stepnum=\count298
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-08-30 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count299
 \l__pdf_internal_box=\box96
 )
-(./main.aux)
-\openout1 = `main.aux'.
+(./appunti-di-cucina.aux)
+\openout1 = `appunti-di-cucina.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 187.
 LaTeX Font Info:    ... okay on input line 187.
@@ -477,9 +477,9 @@ e
 ))
 Package hyperref Info: Link coloring OFF on input line 187.
 
-(./main.out) (./main.out)
+(./appunti-di-cucina.out) (./appunti-di-cucina.out)
 \@outlinefile=\write4
-\openout4 = `main.out'.
+\openout4 = `appunti-di-cucina.out'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 191.
@@ -493,20 +493,19 @@ LaTeX Warning: No \author given.
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./main.toc
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./appunti-di-cucina.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 4.
- [1
+[1
 
 
 ])
 \tf@toc=\write5
-\openout5 = `main.toc'.
+\openout5 = `appunti-di-cucina.toc'.
 
-
-[2]
+ [2]
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
@@ -750,18 +749,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
 
-) [38] (./main.aux)
-Package rerunfilecheck Info: File `main.out' has not changed.
+) [38] (./appunti-di-cucina.aux)
+Package rerunfilecheck Info: File `appunti-di-cucina.out' has not changed.
 (rerunfilecheck)             Checksum: 57838082226C4EE4EBA227969AA7E19C;5724.
  ) 
 Here is how much of TeX's memory you used:
  11541 strings out of 476910
- 185004 string characters out of 5825330
- 551814 words of memory out of 5000000
+ 185277 string characters out of 5825330
+ 551879 words of memory out of 5000000
  32387 multiletter control sequences out of 15000+600000
  475454 words of font info for 49 fonts, out of 8000000 for 9000
  81 hyphenation exceptions out of 8191
- 72i,12n,77p,718b,605s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,12n,77p,731b,605s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/mbarbieri/.texlive2022/texmf-var/fonts/pk/ljfour/public/cookingsymbol
 s/cookingsymbols.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
@@ -772,7 +771,7 @@ e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (41 pages, 195907 bytes).
+Output written on appunti-di-cucina.pdf (41 pages, 195704 bytes).
 PDF statistics:
  453 PDF objects out of 1000 (max. 8388607)
  381 compressed objects within 4 object streams
