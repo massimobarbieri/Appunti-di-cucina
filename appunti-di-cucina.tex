@@ -69,17 +69,18 @@
     \rhead{\large\color{vegcolor}\textbf{CBT}}}
 \newcommand{\freeze}{%
     \lhead{\large\color{frzcolor}\textbf{F}}}
+
 %% Optional arguments for alternate names for these:
-\newcommand{\serves}[2][\Fork\Dish\Knife]{%
-	#1 #2 porzioni
+\newcommand{\serves}[1]{%
+	\Fork\Dish\Knife \> #1 porzioni \>
     %\chead{#1 #2}
-    }
-\newcommand{\preptime}[2][\Gloves]{%
-	#1 #2 
+}
+\newcommand{\preptime}[1]{%
+	\Gloves \> #1 \>
 	%\lfoot{#1 #2}%
 }
 \newcommand{\cooktime}[2][\Oven]{%
-	#1 #2 
+	\Oven \> #2 \>
 	% \rfoot{#1: #2}%
 }
 \newcommand{\temp}[1]{%
