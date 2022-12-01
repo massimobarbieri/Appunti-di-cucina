@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2022.11.28)  1 DEC 2022 09:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2022.11.28)  1 DEC 2022 10:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -544,14 +544,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
 ) [7]
 Capitolo 3.
-(./Ricette/Salse/maionese.tex [8
+(./Ricette/Salse/cipolle-caramellate.tex [8
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 2--7
 
  []
 
-) (./Ricette/Salse/my-magic-dust.tex [9]
+) (./Ricette/Salse/maionese.tex [9]
+Underfull \hbox (badness 10000) in paragraph at lines 2--7
+
+ []
+
+) (./Ricette/Salse/my-magic-dust.tex [10]
 Underfull \hbox (badness 10000) in paragraph at lines 2--6
 
  []
@@ -565,7 +570,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.0pt}.
 
-[10]
+[11]
 Underfull \hbox (badness 10000) in paragraph at lines 2--6
 
  []
@@ -579,46 +584,51 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.0pt}.
 
-[11]
+[12]
 Capitolo 4.
-(./Ricette/Primi/risotto-alla-gallinella.tex [12
+(./Ricette/Primi/risotto-alla-gallinella.tex [13
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
 
-) [13]
+) [14]
 Capitolo 5.
-(./Ricette/Secondi-di-pesce/pesce-spada-al-salmoriglio.tex [14
+(./Ricette/Secondi-di-pesce/baccala-mantecato.tex [15
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 2--7
+
+ []
+
+) (./Ricette/Secondi-di-pesce/pesce-spada-al-salmoriglio.tex [16]
 Underfull \hbox (badness 10000) in paragraph at lines 6--6
 
  []
 
-) (./Ricette/Secondi-di-pesce/tataki-di-tonno-agli-agrumi.tex [15]
+) (./Ricette/Secondi-di-pesce/tataki-di-tonno-agli-agrumi.tex [17]
 Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
 
-) [16]
+) [18]
 Capitolo 6.
-(./Ricette/Secondi-di-carne/nuggets-di-pollo.tex [17
+(./Ricette/Secondi-di-carne/nuggets-di-pollo.tex [19
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
 
-) (./Ricette/Secondi-di-carne/polpettone.tex [18]
+) (./Ricette/Secondi-di-carne/polpettone.tex [20]
 Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
 
-) [19]
+) [21]
 Capitolo 7.
-(./Ricette/BBQ/bombette-pugliesi.tex [20
+(./Ricette/BBQ/bombette-pugliesi.tex [22
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 2--7
@@ -634,36 +644,36 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.0pt}.
 
-[21]
+[23]
 Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
 
-) (./Ricette/BBQ/involtini-alla-siciliana.tex [22]
+) (./Ricette/BBQ/involtini-alla-siciliana.tex [24]
 Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
 
-) (./Ricette/BBQ/pollo-marinato-agli-agrumi.tex [23]
+) (./Ricette/BBQ/pollo-marinato-agli-agrumi.tex [25]
 Underfull \hbox (badness 10000) in paragraph at lines 2--7
 
  []
 
-) (./Ricette/BBQ/smoked-chicken-wings.tex [24]
+) (./Ricette/BBQ/smoked-chicken-wings.tex [26]
 Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
 
-) [25]
+) [27]
 Capitolo 8.
-(./Ricette/CBT/beef-ribs.tex [26
+(./Ricette/CBT/beef-ribs.tex [28
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 2--7
 
  []
 
-) (./Ricette/CBT/stinco-di-maiale-cbt.tex [27]
+) (./Ricette/CBT/stinco-di-maiale-cbt.tex [29]
 Underfull \hbox (badness 10000) in paragraph at lines 2--6
 
  []
@@ -677,7 +687,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.0pt}.
 
-[28]
+[30]
 Underfull \hbox (badness 10000) in paragraph at lines 2--6
 
  []
@@ -691,9 +701,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.0pt}.
 
-[29]
+[31]
 Capitolo 9.
-(./Ricette/Dolci/barrette-energetiche.tex [30
+(./Ricette/Dolci/barrette-energetiche.tex [32
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 2--7
@@ -709,58 +719,58 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.0pt}.
 
-[31]
+[33]
 Underfull \hbox (badness 10000) in paragraph at lines 2--7
 
  []
 
-) (./Ricette/Dolci/cassatine-siciliane.tex [32]
+) (./Ricette/Dolci/cassatine-siciliane.tex [34]
 Underfull \hbox (badness 10000) in paragraph at lines 2--7
 
  []
 
-<img/cassatina.png, id=354, 153.9351pt x 60.9477pt>
+<img/cassatina.png, id=373, 153.9351pt x 60.9477pt>
 File: img/cassatina.png Graphic file (type png)
 <use img/cassatina.png>
 Package pdftex.def Info: img/cassatina.png  used on input line 58.
 (pdftex.def)             Requested size: 162.6075pt x 64.3866pt.
-) (./Ricette/Dolci/cioccolata-in-tazza.tex [33 <./img/cassatina.png>]
+) (./Ricette/Dolci/cioccolata-in-tazza.tex [35 <./img/cassatina.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 2--7
 
  []
 
-) (./Ricette/Dolci/crema-pasticcera.tex [34]
+) (./Ricette/Dolci/crema-pasticcera.tex [36]
 Underfull \hbox (badness 10000) in paragraph at lines 2--7
 
  []
 
-) (./Ricette/Dolci/crostata-di-limone.tex [35]
+) (./Ricette/Dolci/crostata-di-limone.tex [37]
 Underfull \hbox (badness 10000) in paragraph at lines 2--7
 
  []
 
-) (./Ricette/Dolci/pancake.tex [36]
+) (./Ricette/Dolci/pancake.tex [38]
 Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
 
-) (./Ricette/Dolci/biscotti-di-natale.tex [37]
+) (./Ricette/Dolci/biscotti-di-natale.tex [39]
 Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
 
-) [38] (./appunti-di-cucina.aux)
+) [40] (./appunti-di-cucina.aux)
 Package rerunfilecheck Info: File `appunti-di-cucina.out' has not changed.
-(rerunfilecheck)             Checksum: 57838082226C4EE4EBA227969AA7E19C;5724.
+(rerunfilecheck)             Checksum: F0D5C986FFF0DCDA62A4B58553FEA728;6023.
  ) 
 Here is how much of TeX's memory you used:
- 11542 strings out of 476910
- 185287 string characters out of 5825330
- 551879 words of memory out of 5000000
- 32388 multiletter control sequences out of 15000+600000
+ 11559 strings out of 476910
+ 185850 string characters out of 5825330
+ 551880 words of memory out of 5000000
+ 32395 multiletter control sequences out of 15000+600000
  475454 words of font info for 49 fonts, out of 8000000 for 9000
  81 hyphenation exceptions out of 8191
- 72i,12n,77p,731b,605s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,12n,77p,731b,630s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/mbarbieri/.texlive2022/texmf-var/fonts/pk/ljfour/public/cookingsymbol
 s/cookingsymbols.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
@@ -771,10 +781,10 @@ e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on appunti-di-cucina.pdf (41 pages, 195704 bytes).
+Output written on appunti-di-cucina.pdf (43 pages, 198070 bytes).
 PDF statistics:
- 453 PDF objects out of 1000 (max. 8388607)
- 381 compressed objects within 4 object streams
- 81 named destinations out of 1000 (max. 500000)
- 302 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 473 PDF objects out of 1000 (max. 8388607)
+ 399 compressed objects within 4 object streams
+ 85 named destinations out of 1000 (max. 500000)
+ 318 words of extra memory for PDF output out of 10000 (max. 10000000)
 
