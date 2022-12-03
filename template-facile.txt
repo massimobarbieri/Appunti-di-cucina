@@ -1,5 +1,21 @@
+######################################################################
+# ALCUNE COSE DA TENERE PRESENTE QUANDO SCRIVI LA RICETTA
+#
+# 1. Scrivi solo ricette che hai provato e che ti sono piaciute
+#    quelle ricette che hai deciso che meritavano di essere 
+#    trascritte sul tuo ricettario
+# 2. Se sono ricette che hai preso da altri e modificato
+#    scrivilo nell'Introduzione alla ricetta.
+# 3. Non condividere informazioni personali: il ricettario è pubblico
+# 4. Scrivi le ricette in seconda persona singolare: es. Monta gli
+#    albumi a neve e incorpora la farina".
+#
+######################################################################
+
+
 Titolo della ricetta: 
 Introduzione alla ricetta (opzionale):
+
 Dal ricettario di: 
 
 Numero di porzioni:
