@@ -38,6 +38,6 @@
  1. Se puoi, compila e correggi gli errori prima di inviare le 
     modifiche
 
- 2. Il file compile è uno script bash con la sequenza di 
+ 2. Il file compile.sh è uno script bash con la sequenza di 
     compilazione e controllo del file. Necessita di texlive-base, 
     texlive-extra-utils, evince (forse anche altri pacchetti latex)
