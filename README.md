@@ -24,8 +24,8 @@
     scrivi il tuo nome e fra parentesi il ricettari di origine es: 
     Dal ricettario di Max (Nonna Giuli). Nell'Introduzione alla 
     ricetta scrivi da dove viene la ricetta aggiungendo se puoi 
-    qualche commento personale. Es. "Questa è la ricetta del dolce
-    della Nonna, il mio dolce preferito...."
+    qualche commento personale. Es. *"Questa è la ricetta del dolce
+    della Nonna, il mio dolce preferito...."*
 
 
 
