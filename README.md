@@ -1,12 +1,12 @@
 ####################################################################
 #                       APPUNTI DI CUCINA
 #
-#                     Ricettario di famiglia
+##                     Ricettario di famiglia
 #
 ####################################################################
 
 
-############ LINEE GUIDA PER LA STESURA DELLE RICETTE
+### LINEE GUIDA PER LA STESURA DELLE RICETTE
 
 
  1. Scrivi solo ricette che hai provato e che ti sono piaciute
@@ -33,7 +33,7 @@
 
 
 
-########### LINEE GUIDA PER LA GESTIONE DEL REPOSITORY 
+### LINEE GUIDA PER LA GESTIONE DEL REPOSITORY 
 
  1. Se puoi, compila e correggi gli errori prima di inviare le 
     modifiche
