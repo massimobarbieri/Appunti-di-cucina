@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2022.11.28)  7 DEC 2022 13:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2022.11.28)  7 DEC 2022 13:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -511,63 +511,63 @@ Capitolo 3.
 Capitolo 4.
 (./Ricette/Primi/lasagne.tex [13
 
-]) (./Ricette/Primi/penne-ubriaca.tex [14])
-(./Ricette/Primi/riso-per-sushi.tex [15])
-(./Ricette/Primi/risotto-alla-gallinella.tex [16])
-(./Ricette/Primi/carbonara.tex [17]) [18]
+]) (./Ricette/Primi/penne-rosa.tex [14])
+(./Ricette/Primi/penne-ubriaca.tex [15]) (./Ricette/Primi/riso-per-sushi.tex
+[16]) (./Ricette/Primi/risotto-alla-gallinella.tex [17])
+(./Ricette/Primi/carbonara.tex [18]) [19]
 Capitolo 5.
-(./Ricette/Secondi-di-pesce/baccala-mantecato.tex [19
+(./Ricette/Secondi-di-pesce/baccala-mantecato.tex [20
 
 ])
-(./Ricette/Secondi-di-pesce/pesce-spada-al-salmoriglio.tex [20])
-(./Ricette/Secondi-di-pesce/tataki-di-tonno-agli-agrumi.tex [21]) [22]
+(./Ricette/Secondi-di-pesce/pesce-spada-al-salmoriglio.tex [21])
+(./Ricette/Secondi-di-pesce/tataki-di-tonno-agli-agrumi.tex [22]) [23]
 Capitolo 6.
-(./Ricette/Secondi-di-carne/nuggets-di-pollo.tex [23
+(./Ricette/Secondi-di-carne/nuggets-di-pollo.tex [24
 
 ])
-(./Ricette/Secondi-di-carne/polpettone.tex [24]) [25]
+(./Ricette/Secondi-di-carne/polpettone.tex [25]) [26]
 Capitolo 7.
-(./Ricette/BBQ/bombette-pugliesi.tex [26
+(./Ricette/BBQ/bombette-pugliesi.tex [27
 
 ])
-(./Ricette/BBQ/eliche-di-pollo-al-curry.tex [27])
-(./Ricette/BBQ/involtini-alla-siciliana.tex [28])
-(./Ricette/BBQ/pollo-marinato-agli-agrumi.tex [29])
-(./Ricette/BBQ/smoked-chicken-wings.tex [30]) [31]
+(./Ricette/BBQ/eliche-di-pollo-al-curry.tex [28])
+(./Ricette/BBQ/involtini-alla-siciliana.tex [29])
+(./Ricette/BBQ/pollo-marinato-agli-agrumi.tex [30])
+(./Ricette/BBQ/smoked-chicken-wings.tex [31]) [32]
 Capitolo 8.
-(./Ricette/CBT/beef-ribs.tex [32
+(./Ricette/CBT/beef-ribs.tex [33
 
 ]) (./Ricette/CBT/stinco-di-maiale-cbt.tex
-[33]) (./Ricette/CBT/vitello-tonnato-cbt.tex [34]) [35]
+[34]) (./Ricette/CBT/vitello-tonnato-cbt.tex [35]) [36]
 Capitolo 9.
-(./Ricette/Dolci/barrette-energetiche.tex [36
+(./Ricette/Dolci/barrette-energetiche.tex [37
 
 ]) (./Ricette/Dolci/bigne.tex
-[37]) (./Ricette/Dolci/biscotti-di-natale.tex [38])
-(./Ricette/Dolci/cassatine-siciliane.tex [39]
-<img/cassatina.png, id=431, 153.9351pt x 60.9477pt>
+[38]) (./Ricette/Dolci/biscotti-di-natale.tex [39])
+(./Ricette/Dolci/cassatine-siciliane.tex [40]
+<img/cassatina.png, id=441, 153.9351pt x 60.9477pt>
 File: img/cassatina.png Graphic file (type png)
 <use img/cassatina.png>
 Package pdftex.def Info: img/cassatina.png  used on input line 59.
 (pdftex.def)             Requested size: 162.6075pt x 64.3866pt.
 )
-(./Ricette/Dolci/cioccolata-in-tazza.tex [40 <./img/cassatina.png>])
-(./Ricette/Dolci/crema-pasticcera.tex [41])
-(./Ricette/Dolci/crostata-di-limone.tex [42])
-(./Ricette/Dolci/gelato-stracciatella-al-basilico.tex [43])
-(./Ricette/Dolci/nocciolata.tex [44]) (./Ricette/Dolci/pancake.tex [45])
-[46] (./appunti-di-cucina.aux)
+(./Ricette/Dolci/cioccolata-in-tazza.tex [41 <./img/cassatina.png>])
+(./Ricette/Dolci/crema-pasticcera.tex [42])
+(./Ricette/Dolci/crostata-di-limone.tex [43])
+(./Ricette/Dolci/gelato-stracciatella-al-basilico.tex [44])
+(./Ricette/Dolci/nocciolata.tex [45]) (./Ricette/Dolci/pancake.tex [46])
+[47] (./appunti-di-cucina.aux)
 Package rerunfilecheck Info: File `appunti-di-cucina.out' has not changed.
-(rerunfilecheck)             Checksum: BFC8582DE2E14E107062C86E62CA78ED;6964.
+(rerunfilecheck)             Checksum: BD163466D80C770AA83432F44B07916B;7072.
  ) 
 Here is how much of TeX's memory you used:
- 11326 strings out of 476910
- 183169 string characters out of 5825330
+ 11335 strings out of 476910
+ 183380 string characters out of 5825330
  551416 words of memory out of 5000000
- 32133 multiletter control sequences out of 15000+600000
+ 32137 multiletter control sequences out of 15000+600000
  475454 words of font info for 49 fonts, out of 8000000 for 9000
  81 hyphenation exceptions out of 8191
- 72i,11n,77p,731b,599s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,11n,77p,731b,624s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/mbarbieri/.texlive2022/texmf-var/fonts/pk/ljfour/public/cookingsymbol
 s/cookingsymbols.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
@@ -578,10 +578,10 @@ e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on appunti-di-cucina.pdf (49 pages, 219121 bytes).
+Output written on appunti-di-cucina.pdf (50 pages, 220239 bytes).
 PDF statistics:
- 539 PDF objects out of 1000 (max. 8388607)
- 458 compressed objects within 5 object streams
- 103 named destinations out of 1000 (max. 500000)
- 366 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 548 PDF objects out of 1000 (max. 8388607)
+ 466 compressed objects within 5 object streams
+ 105 named destinations out of 1000 (max. 500000)
+ 374 words of extra memory for PDF output out of 10000 (max. 10000000)
 
