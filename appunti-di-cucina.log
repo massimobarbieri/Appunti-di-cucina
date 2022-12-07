@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2022.11.28)  7 DEC 2022 10:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2022.11.28)  7 DEC 2022 10:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -372,26 +372,26 @@ File: l3backend-pdftex.def 2022-08-30 L3 backend support: PDF output (pdfTeX)
 (./appunti-di-cucina.aux)
 \openout1 = `appunti-di-cucina.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 191.
-LaTeX Font Info:    ... okay on input line 191.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 191.
-LaTeX Font Info:    ... okay on input line 191.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 191.
-LaTeX Font Info:    ... okay on input line 191.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 191.
-LaTeX Font Info:    ... okay on input line 191.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 191.
-LaTeX Font Info:    ... okay on input line 191.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 191.
-LaTeX Font Info:    ... okay on input line 191.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 191.
-LaTeX Font Info:    ... okay on input line 191.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 191.
-LaTeX Font Info:    ... okay on input line 191.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 191.
-LaTeX Font Info:    ... okay on input line 191.
-LaTeX Info: Redefining \it@ocap on input line 191.
-LaTeX Info: Redefining \it@ccap on input line 191.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 192.
+LaTeX Font Info:    ... okay on input line 192.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 192.
+LaTeX Font Info:    ... okay on input line 192.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 192.
+LaTeX Font Info:    ... okay on input line 192.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 192.
+LaTeX Font Info:    ... okay on input line 192.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 192.
+LaTeX Font Info:    ... okay on input line 192.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 192.
+LaTeX Font Info:    ... okay on input line 192.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 192.
+LaTeX Font Info:    ... okay on input line 192.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 192.
+LaTeX Font Info:    ... okay on input line 192.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 192.
+LaTeX Font Info:    ... okay on input line 192.
+LaTeX Info: Redefining \it@ocap on input line 192.
+LaTeX Info: Redefining \it@ccap on input line 192.
 
 
 File italian.ldf warning: 
@@ -399,7 +399,7 @@ italian.ldf    With OT1 encoding guillemets are poorly faked
 italian.ldf    Use T1 encoding
 italian.ldf    or specify a font with command \CaporaliFrom
 italian.ldf    See the documentation concerning the babel-italian typesetting 
-italian.ldf    on input line 191.
+italian.ldf    on input line 192.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -457,18 +457,18 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 191.
+Package hyperref Info: Link coloring OFF on input line 192.
 
 (./appunti-di-cucina.out) (./appunti-di-cucina.out)
 \@outlinefile=\write4
 \openout4 = `appunti-di-cucina.out'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 196.
+(Font)              <12> on input line 197.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 196.
+(Font)              <8> on input line 197.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 196.
+(Font)              <6> on input line 197.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./appunti-di-cucina.toc
@@ -488,7 +488,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.210 \newpage
+l.211 \newpage
                [1
 
 
@@ -506,7 +506,7 @@ Capitolo 2.
 ! Incomplete \if; all text was ignored after line 30.
 <inserted text> 
                 \fi 
-l.217 ...icette/Antipasti/mini-hamburger-di-orata}
+l.218 ...icette/Antipasti/mini-hamburger-di-orata}
                                                   
 The file ended while I was skipping conditional text.
 This kind of error happens when you say `\if...' and forget
@@ -526,7 +526,7 @@ Capitolo 4.
 ! Incomplete \if; all text was ignored after line 29.
 <inserted text> 
                 \fi 
-l.230 \input{./Ricette/Primi/penne-ubriaca}
+l.231 \input{./Ricette/Primi/penne-ubriaca}
                                            
 The file ended while I was skipping conditional text.
 This kind of error happens when you say `\if...' and forget
@@ -548,7 +548,7 @@ Capitolo 6.
 ! Incomplete \if; all text was ignored after line 36.
 <inserted text> 
                 \fi 
-l.244 ...icette/Secondi-di-carne/nuggets-di-pollo}
+l.245 ...icette/Secondi-di-carne/nuggets-di-pollo}
                                                   
 The file ended while I was skipping conditional text.
 This kind of error happens when you say `\if...' and forget
@@ -576,7 +576,7 @@ Capitolo 9.
 ! Incomplete \if; all text was ignored after line 33.
 <inserted text> 
                 \fi 
-l.264 \input{./Ricette/Dolci/bigne}
+l.265 \input{./Ricette/Dolci/bigne}
                                    
 The file ended while I was skipping conditional text.
 This kind of error happens when you say `\if...' and forget
@@ -586,7 +586,7 @@ the matching `\fi'. I've inserted a `\fi'; this might work.
 ! Incomplete \if; all text was ignored after line 35.
 <inserted text> 
                 \fi 
-l.265 \input{./Ricette/Dolci/biscotti-di-natale}
+l.266 \input{./Ricette/Dolci/biscotti-di-natale}
                                                 
 The file ended while I was skipping conditional text.
 This kind of error happens when you say `\if...' and forget
@@ -611,7 +611,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.279 \end{document}
+l.280 \end{document}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -619,7 +619,7 @@ or  <return>  to continue without it.
 
 [46] (./appunti-di-cucina.aux)
 Package rerunfilecheck Info: File `appunti-di-cucina.out' has not changed.
-(rerunfilecheck)             Checksum: 2BBDA8F31F8387B80962DDA135451779;6959.
+(rerunfilecheck)             Checksum: BFC8582DE2E14E107062C86E62CA78ED;6964.
  )
 (\end occurred inside a group at level 5)
 
@@ -647,7 +647,7 @@ pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on appunti-di-cucina.pdf (49 pages, 216627 bytes).
+Output written on appunti-di-cucina.pdf (49 pages, 216770 bytes).
 PDF statistics:
  533 PDF objects out of 1000 (max. 8388607)
  452 compressed objects within 5 object streams
