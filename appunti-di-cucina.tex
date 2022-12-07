@@ -104,7 +104,7 @@
 %% Optional argument for a  heading within the ingredients section
 \newcommand{\ingredients}[1][]{%
     \if###1##%
-    \vspace{15px}%Spazio supra al titolo ingredienti
+    \vspace{15px} %Spazio sopra al titolo ingredienti
     \newline
         {\color{red}\Large\textbf{Ingredienti}}%
     \else
@@ -130,13 +130,14 @@
     \medskip
 }
 
-\newcounter{stepnum}
+%\newcounter{stepnum}
 
 %% Optional argument for an italicized pre-step
 %% Also use obeylines to minimize markup here as well
 \newenvironment{method}[1][]{%
 %    \setcounter{stepnum}{0}
-%    \noindent
+    \vspace{15px}
+    \noindent
     {\color{red}\Large\textbf{Preparazione}}%
     \par
     \par
@@ -157,25 +158,6 @@
 }{%
     \par
     \endgroup}
-
-
-%% Optional argument for an italicized pre-step
-%% Also use obeylines to minimize markup here as well
-\newenvironment{note}[1][]{%
-
-\newline
-    {\color{red}\Large\textbf{Note}}%
-    \par
-    \smallskip
-    \begingroup
-    \parindent0pt
-    \parskip0.25em
-%        \leftskip2em
-%    \everypar={\llap{\stepcounter{stepnum}\hbox to2em{\thestepnum.\hfill}}}
-}{%
-    \par
-    \endgroup}
-
 
 \pagestyle{fancy}
 % End of "recipes.sty"30
