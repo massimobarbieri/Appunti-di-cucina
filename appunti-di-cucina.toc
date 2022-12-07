@@ -51,3 +51,5 @@
 \contentsline {section}{\numberline {9.10}Pancake}{50}{section.9.10}%
 \contentsline {chapter}{\numberline {10}Cocktails}{51}{chapter.10}%
 \contentsline {section}{\numberline {10.1}Negroni \& Americano}{52}{section.10.1}%
+\contentsline {part}{I\hspace {1em}Indici}{53}{part.1}%
+\contentsline {chapter}{Indice degli ingredienti}{54}{section*.10}%

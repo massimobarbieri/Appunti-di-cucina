@@ -2,7 +2,7 @@
 \usepackage{fancyhdr}
 \usepackage{multicol}
 \usepackage[italian]{babel}
-\usepackage{makeidx}
+\usepackage{imakeidx} % Indice analitico
 \usepackage[a4paper]{geometry}
 
 
@@ -17,7 +17,7 @@
 \setlength{\multicolsep}{0pt}
 \setlength{\columnseprule}{1pt}
 
-\makeindex
+\makeindex[title=Indice degli ingredienti,intoc]
 \makeatletter
 
 \newif\if@mainmatter \@mainmattertrue
@@ -243,7 +243,7 @@ Tutte queste ricette sono state provate e sono state inserite qui perché mi son
 
 
 
-%\newpage
-%\part{Indici}
-%\printindex
+\newpage
+\part{Indici}
+\printindex
 \end{document}
