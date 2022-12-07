@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2022.11.28)  7 DEC 2022 15:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2022.11.28)  7 DEC 2022 15:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -565,7 +565,7 @@ Capitolo 10.
 <img/negroni.jpg, id=498, 741.972pt x 847.968pt>
 File: img/negroni.jpg Graphic file (type jpg)
 <use img/negroni.jpg>
-Package pdftex.def Info: img/negroni.jpg  used on input line 60.
+Package pdftex.def Info: img/negroni.jpg  used on input line 39.
 (pdftex.def)             Requested size: 142.26378pt x 162.57768pt.
 ) [50 <./img/negroni.jpg>]
 (./appunti-di-cucina.aux)
