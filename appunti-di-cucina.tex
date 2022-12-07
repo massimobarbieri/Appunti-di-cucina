@@ -135,18 +135,18 @@
 %% Optional argument for an italicized pre-step
 %% Also use obeylines to minimize markup here as well
 \newenvironment{method}[1][]{%
-    \setcounter{stepnum}{0}
-    \noindent
+%    \setcounter{stepnum}{0}
+%    \noindent
     {\color{red}\Large\textbf{Preparazione}}%
     \par
     \par
     \smallskip
-    \if###1##%
-    \else
-        \noindent
-        \emph{#1}
-        \par
-    \fi
+%    \if###1##%
+%    \else
+%        \noindent
+%        \emph{#1}
+%        \par
+%    \fi
     \begingroup
     \parindent0pt
     \parskip0.25em
@@ -162,18 +162,11 @@
 %% Optional argument for an italicized pre-step
 %% Also use obeylines to minimize markup here as well
 \newenvironment{note}[1][]{%
-    \setcounter{stepnum}{0}
-    \noindent
+
 \newline
     {\color{red}\Large\textbf{Note}}%
     \par
     \smallskip
-    \if###1##%
-    \else
-        \noindent
-        \emph{#1}
-        \par
-    \firipieno
     \begingroup
     \parindent0pt
     \parskip0.25em

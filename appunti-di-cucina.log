@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2022.11.28)  7 DEC 2022 10:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2022.11.28)  7 DEC 2022 11:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -372,26 +372,26 @@ File: l3backend-pdftex.def 2022-08-30 L3 backend support: PDF output (pdfTeX)
 (./appunti-di-cucina.aux)
 \openout1 = `appunti-di-cucina.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 192.
-LaTeX Font Info:    ... okay on input line 192.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 192.
-LaTeX Font Info:    ... okay on input line 192.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 192.
-LaTeX Font Info:    ... okay on input line 192.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 192.
-LaTeX Font Info:    ... okay on input line 192.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 192.
-LaTeX Font Info:    ... okay on input line 192.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 192.
-LaTeX Font Info:    ... okay on input line 192.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 192.
-LaTeX Font Info:    ... okay on input line 192.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 192.
-LaTeX Font Info:    ... okay on input line 192.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 192.
-LaTeX Font Info:    ... okay on input line 192.
-LaTeX Info: Redefining \it@ocap on input line 192.
-LaTeX Info: Redefining \it@ccap on input line 192.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 185.
+LaTeX Font Info:    ... okay on input line 185.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 185.
+LaTeX Font Info:    ... okay on input line 185.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 185.
+LaTeX Font Info:    ... okay on input line 185.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 185.
+LaTeX Font Info:    ... okay on input line 185.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 185.
+LaTeX Font Info:    ... okay on input line 185.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 185.
+LaTeX Font Info:    ... okay on input line 185.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 185.
+LaTeX Font Info:    ... okay on input line 185.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 185.
+LaTeX Font Info:    ... okay on input line 185.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 185.
+LaTeX Font Info:    ... okay on input line 185.
+LaTeX Info: Redefining \it@ocap on input line 185.
+LaTeX Info: Redefining \it@ccap on input line 185.
 
 
 File italian.ldf warning: 
@@ -399,7 +399,7 @@ italian.ldf    With OT1 encoding guillemets are poorly faked
 italian.ldf    Use T1 encoding
 italian.ldf    or specify a font with command \CaporaliFrom
 italian.ldf    See the documentation concerning the babel-italian typesetting 
-italian.ldf    on input line 192.
+italian.ldf    on input line 185.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -457,18 +457,18 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 192.
+Package hyperref Info: Link coloring OFF on input line 185.
 
 (./appunti-di-cucina.out) (./appunti-di-cucina.out)
 \@outlinefile=\write4
 \openout4 = `appunti-di-cucina.out'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 197.
+(Font)              <12> on input line 190.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 197.
+(Font)              <8> on input line 190.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 197.
+(Font)              <6> on input line 190.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./appunti-di-cucina.toc
@@ -488,7 +488,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.211 \newpage
+l.204 \newpage
                [1
 
 
@@ -502,17 +502,7 @@ Capitolo 1.
 Capitolo 2.
 (./Ricette/Antipasti/mini-hamburger-di-orata.tex [6
 
-])
-! Incomplete \if; all text was ignored after line 30.
-<inserted text> 
-                \fi 
-l.218 ...icette/Antipasti/mini-hamburger-di-orata}
-                                                  
-The file ended while I was skipping conditional text.
-This kind of error happens when you say `\if...' and forget
-the matching `\fi'. I've inserted a `\fi'; this might work.
-
-[7]
+]) [7]
 Capitolo 3.
 (./Ricette/Salse/cipolle-caramellate.tex [8
 
@@ -523,15 +513,6 @@ Capitolo 4.
 (./Ricette/Primi/lasagne.tex [13
 
 ]) (./Ricette/Primi/penne-ubriaca.tex [14])
-! Incomplete \if; all text was ignored after line 29.
-<inserted text> 
-                \fi 
-l.231 \input{./Ricette/Primi/penne-ubriaca}
-                                           
-The file ended while I was skipping conditional text.
-This kind of error happens when you say `\if...' and forget
-the matching `\fi'. I've inserted a `\fi'; this might work.
-
 (./Ricette/Primi/riso-per-sushi.tex [15])
 (./Ricette/Primi/risotto-alla-gallinella.tex [16])
 (./Ricette/Primi/carbonara.tex [17]) [18]
@@ -545,15 +526,6 @@ Capitolo 6.
 (./Ricette/Secondi-di-carne/nuggets-di-pollo.tex [23
 
 ])
-! Incomplete \if; all text was ignored after line 36.
-<inserted text> 
-                \fi 
-l.245 ...icette/Secondi-di-carne/nuggets-di-pollo}
-                                                  
-The file ended while I was skipping conditional text.
-This kind of error happens when you say `\if...' and forget
-the matching `\fi'. I've inserted a `\fi'; this might work.
-
 (./Ricette/Secondi-di-carne/polpettone.tex [24]) [25]
 Capitolo 7.
 (./Ricette/BBQ/bombette-pugliesi.tex [26
@@ -572,28 +544,9 @@ Capitolo 9.
 (./Ricette/Dolci/barrette-energetiche.tex [36
 
 ]) (./Ricette/Dolci/bigne.tex
-[37])
-! Incomplete \if; all text was ignored after line 33.
-<inserted text> 
-                \fi 
-l.265 \input{./Ricette/Dolci/bigne}
-                                   
-The file ended while I was skipping conditional text.
-This kind of error happens when you say `\if...' and forget
-the matching `\fi'. I've inserted a `\fi'; this might work.
-
-(./Ricette/Dolci/biscotti-di-natale.tex [38])
-! Incomplete \if; all text was ignored after line 35.
-<inserted text> 
-                \fi 
-l.266 \input{./Ricette/Dolci/biscotti-di-natale}
-                                                
-The file ended while I was skipping conditional text.
-This kind of error happens when you say `\if...' and forget
-the matching `\fi'. I've inserted a `\fi'; this might work.
-
+[37]) (./Ricette/Dolci/biscotti-di-natale.tex [38])
 (./Ricette/Dolci/cassatine-siciliane.tex [39]
-<img/cassatina.png, id=426, 153.9351pt x 60.9477pt>
+<img/cassatina.png, id=431, 153.9351pt x 60.9477pt>
 File: img/cassatina.png Graphic file (type png)
 <use img/cassatina.png>
 Package pdftex.def Info: img/cassatina.png  used on input line 59.
@@ -604,53 +557,32 @@ Package pdftex.def Info: img/cassatina.png  used on input line 59.
 (./Ricette/Dolci/crostata-di-limone.tex [42])
 (./Ricette/Dolci/gelato-stracciatella-al-basilico.tex [43])
 (./Ricette/Dolci/nocciolata.tex [44]) (./Ricette/Dolci/pancake.tex [45])
-
-! LaTeX Error: \begin{note} on input line 34 ended by \end{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.280 \end{document}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
 [46] (./appunti-di-cucina.aux)
 Package rerunfilecheck Info: File `appunti-di-cucina.out' has not changed.
 (rerunfilecheck)             Checksum: BFC8582DE2E14E107062C86E62CA78ED;6964.
- )
-(\end occurred inside a group at level 5)
-
-### semi simple group (level 5) entered at line 34 (\begingroup)
-### semi simple group (level 4) entered at line 32 (\begingroup)
-### semi simple group (level 3) entered at line 35 (\begingroup)
-### semi simple group (level 2) entered at line 28 (\begingroup)
-### semi simple group (level 1) entered at line 29 (\begingroup)
-### bottom level 
+ ) 
 Here is how much of TeX's memory you used:
- 11329 strings out of 476910
- 183184 string characters out of 5825330
- 551526 words of memory out of 5000000
- 32141 multiletter control sequences out of 15000+600000
- 475147 words of font info for 48 fonts, out of 8000000 for 9000
+ 11333 strings out of 476910
+ 183230 string characters out of 5825330
+ 551471 words of memory out of 5000000
+ 32140 multiletter control sequences out of 15000+600000
+ 475454 words of font info for 49 fonts, out of 8000000 for 9000
  81 hyphenation exceptions out of 8191
- 72i,11n,77p,731b,969s stack positions out of 10000i,1000n,20000p,200000b,200000s
- </home/mbarbieri/.texlive2022/texmf-var/fonts/pk/ljfour/public
-/cookingsymbols/cookingsymbols.600pk></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.
-pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on appunti-di-cucina.pdf (49 pages, 216770 bytes).
+ 72i,11n,77p,731b,599s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </home/mbarbieri/.texlive2022/texmf-var/fonts/pk/ljfour/public/cookingsymbol
+s/cookingsymbols.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on appunti-di-cucina.pdf (49 pages, 218044 bytes).
 PDF statistics:
- 533 PDF objects out of 1000 (max. 8388607)
- 452 compressed objects within 5 object streams
- 98 named destinations out of 1000 (max. 500000)
+ 539 PDF objects out of 1000 (max. 8388607)
+ 458 compressed objects within 5 object streams
+ 103 named destinations out of 1000 (max. 500000)
  366 words of extra memory for PDF output out of 10000 (max. 10000000)
 
