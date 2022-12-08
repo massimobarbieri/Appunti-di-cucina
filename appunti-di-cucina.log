@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2022.11.28)  7 DEC 2022 18:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2022.11.28)  8 DEC 2022 11:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -593,31 +593,41 @@ runsystem(makeindex appunti-di-cucina.idx)...executed safely (allowed).
 
 
 ]) [55] (./appunti-di-cucina.aux)
-Package rerunfilecheck Info: File `appunti-di-cucina.out' has not changed.
-(rerunfilecheck)             Checksum: EBAA16846C58C4292016D2FA086215DC;7952.
+
+Package rerunfilecheck Warning: File `appunti-di-cucina.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `appunti-di-cucina.out':
+(rerunfilecheck)             Before: 397212322C5E6AA91EFDB63D5ED95C4E;7952
+(rerunfilecheck)             After:  EBAA16846C58C4292016D2FA086215DC;7952.
  ) 
 Here is how much of TeX's memory you used:
- 11755 strings out of 476910
- 190798 string characters out of 5825330
+ 11756 strings out of 476910
+ 190809 string characters out of 5825330
  560057 words of memory out of 5000000
  32507 multiletter control sequences out of 15000+600000
  475454 words of font info for 49 fonts, out of 8000000 for 9000
  81 hyphenation exceptions out of 8191
  72i,11n,77p,731b,631s stack positions out of 10000i,1000n,20000p,200000b,200000s
- </home/mbarbieri/.texlive2022/texmf-var/fonts/pk/ljfour/public/cookingsymbol
-s/cookingsymbols.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.
-pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on appunti-di-cucina.pdf (58 pages, 892998 bytes).
+
+pdfTeX warning (dest): name{section*.11} has been referenced but does not exist
+, replaced by a fixed one
+
+ </home/mbarbieri/.texlive2022/texmf-var/fonts/pk/ljfour/public/cookingsymbols/
+cookingsymbols.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+bx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on appunti-di-cucina.pdf (58 pages, 893095 bytes).
 PDF statistics:
- 835 PDF objects out of 1000 (max. 8388607)
- 741 compressed objects within 8 object streams
- 123 named destinations out of 1000 (max. 500000)
+ 836 PDF objects out of 1000 (max. 8388607)
+ 742 compressed objects within 8 object streams
+ 124 named destinations out of 1000 (max. 500000)
  435 words of extra memory for PDF output out of 10000 (max. 10000000)
 
