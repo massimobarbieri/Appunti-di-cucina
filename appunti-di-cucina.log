@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2022.11.28)  8 DEC 2022 11:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2022.11.28)  8 DEC 2022 11:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -550,84 +550,75 @@ Capitolo 7.
 (./Ricette/BBQ/eliche-di-pollo-al-curry.tex [31])
 (./Ricette/BBQ/involtini-alla-siciliana.tex [32])
 (./Ricette/BBQ/pollo-marinato-agli-agrumi.tex [33])
-(./Ricette/BBQ/smoked-chicken-wings.tex [34]) [35]
+(./Ricette/BBQ/pork-ribs.tex [34]) (./Ricette/BBQ/smoked-chicken-wings.tex
+[35]) [36]
 Capitolo 8.
-(./Ricette/CBT/beef-ribs.tex [36
+(./Ricette/CBT/beef-ribs.tex [37
 
 ]) (./Ricette/CBT/stinco-di-maiale-cbt.tex
-[37]) (./Ricette/CBT/vitello-tonnato-cbt.tex [38]) [39]
+[38]) (./Ricette/CBT/vitello-tonnato-cbt.tex [39]) [40]
 Capitolo 9.
-(./Ricette/Dolci/barrette-energetiche.tex [40
+(./Ricette/Dolci/barrette-energetiche.tex [41
 
 ]) (./Ricette/Dolci/bigne.tex
-[41]) (./Ricette/Dolci/biscotti-di-natale.tex [42])
-(./Ricette/Dolci/cassatine-siciliane.tex [43]
-<img/cassatina.png, id=492, 153.9351pt x 60.9477pt>
+[42]) (./Ricette/Dolci/biscotti-di-natale.tex [43])
+(./Ricette/Dolci/cassatine-siciliane.tex [44]
+<img/cassatina.png, id=503, 153.9351pt x 60.9477pt>
 File: img/cassatina.png Graphic file (type png)
 <use img/cassatina.png>
 Package pdftex.def Info: img/cassatina.png  used on input line 59.
 (pdftex.def)             Requested size: 162.6075pt x 64.3866pt.
 )
-(./Ricette/Dolci/cioccolata-in-tazza.tex [44 <./img/cassatina.png>])
-(./Ricette/Dolci/crema-pasticcera.tex [45])
-(./Ricette/Dolci/crostata-di-limone.tex [46])
-(./Ricette/Dolci/gelato-stracciatella-al-basilico.tex [47])
-(./Ricette/Dolci/nocciolata.tex [48]) (./Ricette/Dolci/pancake.tex [49])
-[50]
+(./Ricette/Dolci/cioccolata-in-tazza.tex [45 <./img/cassatina.png>])
+(./Ricette/Dolci/crema-pasticcera.tex [46])
+(./Ricette/Dolci/crostata-di-limone.tex [47])
+(./Ricette/Dolci/gelato-stracciatella-al-basilico.tex [48])
+(./Ricette/Dolci/nocciolata.tex [49]) (./Ricette/Dolci/pancake.tex [50])
+[51]
 Capitolo 10.
-(./Ricette/Cocktails/negroni.tex [51
+(./Ricette/Cocktails/negroni.tex [52
 
 ]
-<img/negroni.jpg, id=529, 741.972pt x 847.968pt>
+<img/negroni.jpg, id=542, 741.972pt x 847.968pt>
 File: img/negroni.jpg Graphic file (type jpg)
 <use img/negroni.jpg>
 Package pdftex.def Info: img/negroni.jpg  used on input line 39.
 (pdftex.def)             Requested size: 142.26378pt x 162.57768pt.
-) [52 <./img/negroni.jpg>] [53
+) [53 <./img/negroni.jpg>] [54
 
 ]
 runsystem(makeindex appunti-di-cucina.idx)...executed safely (allowed).
 
 
-(./appunti-di-cucina.ind [54
+(./appunti-di-cucina.ind [55
 
 
-]) [55] (./appunti-di-cucina.aux)
-
-Package rerunfilecheck Warning: File `appunti-di-cucina.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `appunti-di-cucina.out':
-(rerunfilecheck)             Before: 397212322C5E6AA91EFDB63D5ED95C4E;7952
-(rerunfilecheck)             After:  EBAA16846C58C4292016D2FA086215DC;7952.
+]) [56] (./appunti-di-cucina.aux)
+Package rerunfilecheck Info: File `appunti-di-cucina.out' has not changed.
+(rerunfilecheck)             Checksum: DC146306D2AB307DB21E3131E2C61771;8055.
  ) 
 Here is how much of TeX's memory you used:
- 11756 strings out of 476910
- 190809 string characters out of 5825330
+ 11764 strings out of 476910
+ 190993 string characters out of 5825330
  560057 words of memory out of 5000000
- 32507 multiletter control sequences out of 15000+600000
+ 32511 multiletter control sequences out of 15000+600000
  475454 words of font info for 49 fonts, out of 8000000 for 9000
  81 hyphenation exceptions out of 8191
  72i,11n,77p,731b,631s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-pdfTeX warning (dest): name{section*.11} has been referenced but does not exist
-, replaced by a fixed one
-
- </home/mbarbieri/.texlive2022/texmf-var/fonts/pk/ljfour/public/cookingsymbols/
-cookingsymbols.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-bx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pf
-b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/
-texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on appunti-di-cucina.pdf (58 pages, 893095 bytes).
+ </home/mbarbieri/.texlive2022/texmf-var/fonts/pk/ljfour/public/cookingsymbol
+s/cookingsymbols.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on appunti-di-cucina.pdf (59 pages, 894897 bytes).
 PDF statistics:
- 836 PDF objects out of 1000 (max. 8388607)
- 742 compressed objects within 8 object streams
- 124 named destinations out of 1000 (max. 500000)
- 435 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 851 PDF objects out of 1000 (max. 8388607)
+ 756 compressed objects within 8 object streams
+ 125 named destinations out of 1000 (max. 500000)
+ 443 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -33,23 +33,24 @@
 \contentsline {section}{\numberline {7.2}Eliche di pollo al curry}{32}{section.7.2}%
 \contentsline {section}{\numberline {7.3}Involtini di carne alla siciliana}{33}{section.7.3}%
 \contentsline {section}{\numberline {7.4}Pollo marinato agli agrumi}{34}{section.7.4}%
-\contentsline {section}{\numberline {7.5}Chicken wings}{35}{section.7.5}%
-\contentsline {chapter}{\numberline {8}Cottura a bassa temperatura (CBT)}{36}{chapter.8}%
-\contentsline {section}{\numberline {8.1}Beef ribs (CBT)}{37}{section.8.1}%
-\contentsline {section}{\numberline {8.2}Stinco di maiale (CBT)}{38}{section.8.2}%
-\contentsline {section}{\numberline {8.3}Vitello tonnato (CBT)}{39}{section.8.3}%
-\contentsline {chapter}{\numberline {9}Dolci}{40}{chapter.9}%
-\contentsline {section}{\numberline {9.1}Barrette energetiche}{41}{section.9.1}%
-\contentsline {section}{\numberline {9.2}Bigné (Pasta choux)}{42}{section.9.2}%
-\contentsline {section}{\numberline {9.3}Biscotti di Natale}{43}{section.9.3}%
-\contentsline {section}{\numberline {9.4}Cassatine siciliane}{44}{section.9.4}%
-\contentsline {section}{\numberline {9.5}Cioccolata in tazza}{45}{section.9.5}%
-\contentsline {section}{\numberline {9.6}Crema pasticcera}{46}{section.9.6}%
-\contentsline {section}{\numberline {9.7}Crostata di limone e mandorle}{47}{section.9.7}%
-\contentsline {section}{\numberline {9.8}Gelato: stracciatella al basilico}{48}{section.9.8}%
-\contentsline {section}{\numberline {9.9}Nocciolata}{49}{section.9.9}%
-\contentsline {section}{\numberline {9.10}Pancake}{50}{section.9.10}%
-\contentsline {chapter}{\numberline {10}Cocktails}{51}{chapter.10}%
-\contentsline {section}{\numberline {10.1}Negroni \& Americano}{52}{section.10.1}%
-\contentsline {part}{I\hspace {1em}Indici}{53}{part.1}%
-\contentsline {chapter}{Indice degli ingredienti}{54}{section*.10}%
+\contentsline {section}{\numberline {7.5}Pork ribs}{35}{section.7.5}%
+\contentsline {section}{\numberline {7.6}Chicken wings}{36}{section.7.6}%
+\contentsline {chapter}{\numberline {8}Cottura a bassa temperatura (CBT)}{37}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Beef ribs (CBT)}{38}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Stinco di maiale (CBT)}{39}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Vitello tonnato (CBT)}{40}{section.8.3}%
+\contentsline {chapter}{\numberline {9}Dolci}{41}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Barrette energetiche}{42}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Bigné (Pasta choux)}{43}{section.9.2}%
+\contentsline {section}{\numberline {9.3}Biscotti di Natale}{44}{section.9.3}%
+\contentsline {section}{\numberline {9.4}Cassatine siciliane}{45}{section.9.4}%
+\contentsline {section}{\numberline {9.5}Cioccolata in tazza}{46}{section.9.5}%
+\contentsline {section}{\numberline {9.6}Crema pasticcera}{47}{section.9.6}%
+\contentsline {section}{\numberline {9.7}Crostata di limone e mandorle}{48}{section.9.7}%
+\contentsline {section}{\numberline {9.8}Gelato: stracciatella al basilico}{49}{section.9.8}%
+\contentsline {section}{\numberline {9.9}Nocciolata}{50}{section.9.9}%
+\contentsline {section}{\numberline {9.10}Pancake}{51}{section.9.10}%
+\contentsline {chapter}{\numberline {10}Cocktails}{52}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Negroni \& Americano}{53}{section.10.1}%
+\contentsline {part}{I\hspace {1em}Indici}{54}{part.1}%
+\contentsline {chapter}{Indice degli ingredienti}{55}{section*.10}%
