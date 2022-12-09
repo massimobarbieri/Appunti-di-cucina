@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2022.11.28)  9 DEC 2022 08:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2022.11.28)  9 DEC 2022 09:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -576,33 +576,40 @@ Package pdftex.def Info: img/cassatina.png  used on input line 59.
 (./Ricette/Dolci/nocciolata.tex [49]) (./Ricette/Dolci/pancake.tex [50])
 [51]
 Capitolo 10.
-(./Ricette/Cocktails/gin.tex [52
+(./Ricette/Cocktails/bitter.tex [52
 
-]) (./Ricette/Cocktails/negroni.tex [53]
-<img/negroni.jpg, id=556, 741.972pt x 847.968pt>
+]) (./Ricette/Cocktails/gin.tex [53])
+(./Ricette/Cocktails/negroni.tex [54]
+<img/negroni.jpg, id=560, 741.972pt x 847.968pt>
 File: img/negroni.jpg Graphic file (type jpg)
 <use img/negroni.jpg>
 Package pdftex.def Info: img/negroni.jpg  used on input line 39.
 (pdftex.def)             Requested size: 142.26378pt x 162.57768pt.
-)
-(./Ricette/Cocktails/vermouth.tex [54 <./img/negroni.jpg>]) [55] [56
+) (./Ricette/Cocktails/vermouth.tex
+[55 <./img/negroni.jpg>]) [56] [57
 
 ]
 runsystem(makeindex appunti-di-cucina.idx)...executed safely (allowed).
 
+ (./appunti-di-cucina.ind [58
 
-(./appunti-di-cucina.ind [57
 
+]) [59]
+(./appunti-di-cucina.aux)
 
-]) [58] (./appunti-di-cucina.aux)
-Package rerunfilecheck Info: File `appunti-di-cucina.out' has not changed.
-(rerunfilecheck)             Checksum: 29DDEBB7E5861CC5E84E5843A62ED194;8320.
+Package rerunfilecheck Warning: File `appunti-di-cucina.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `appunti-di-cucina.out':
+(rerunfilecheck)             Before: 29DDEBB7E5861CC5E84E5843A62ED194;8320
+(rerunfilecheck)             After:  FABC318B5656FBC686472A135C37D207;8455.
  ) 
 Here is how much of TeX's memory you used:
- 11782 strings out of 476910
- 191405 string characters out of 5825330
+ 11790 strings out of 476910
+ 191600 string characters out of 5825330
  560057 words of memory out of 5000000
- 32519 multiletter control sequences out of 15000+600000
+ 32522 multiletter control sequences out of 15000+600000
  475454 words of font info for 49 fonts, out of 8000000 for 9000
  81 hyphenation exceptions out of 8191
  72i,11n,77p,731b,631s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -616,10 +623,10 @@ e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on appunti-di-cucina.pdf (61 pages, 897756 bytes).
+Output written on appunti-di-cucina.pdf (62 pages, 898587 bytes).
 PDF statistics:
- 871 PDF objects out of 1000 (max. 8388607)
- 774 compressed objects within 8 object streams
- 129 named destinations out of 1000 (max. 500000)
+ 876 PDF objects out of 1000 (max. 8388607)
+ 778 compressed objects within 8 object streams
+ 131 named destinations out of 1000 (max. 500000)
  459 words of extra memory for PDF output out of 10000 (max. 10000000)
 
