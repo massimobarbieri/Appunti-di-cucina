@@ -3,6 +3,7 @@
   \item acciughe, \hyperpage{41}
   \item aceto, \hyperpage{11}, \hyperpage{40}, \hyperpage{52}
   \item aceto di mele, \hyperpage{37}
+  \item aceto di riso, \hyperpage{21}
   \item aglio, \hyperpage{25, 26}
   \item alloro, \hyperpage{8}, \hyperpage{26}, \hyperpage{34}, 
 		\hyperpage{40}
@@ -19,6 +20,7 @@
   \item basilico, \hyperpage{50}
   \item besciamella, \hyperpage{17}
   \item biancostato di manzo, \hyperpage{39}
+  \item bicarbonato, \hyperpage{52}
   \item bitter, \hyperpage{56}
   \item brandy, \hyperpage{37}
   \item burro, \hyperpage{10}, \hyperpage{17}, \hyperpage{39}, 
@@ -58,7 +60,6 @@
   \indexspace
 
   \item gallinelle di mare, \hyperpage{22}
-  \item gambetto, \hyperpage{20}
   \item gin, \hyperpage{56}
   \item ginepro, \hyperpage{40}
   \item girello di vitello, \hyperpage{41}
@@ -91,7 +92,6 @@
   \indexspace
 
   \item olio
-    \subitem olio di semi di girasole, \hyperpage{12}
     \subitem olio e.v.o., \hyperpage{4}, \hyperpage{6}, \hyperpage{11}, 
 		\hyperpage{22}, \hyperpage{26, 27}, \hyperpage{33}, 
 		\hyperpage{41}, \hyperpage{51}
@@ -112,13 +112,14 @@
   \item passata di pomodoro, \hyperpage{17}
   \item patate, \hyperpage{39}
   \item pecorino, \hyperpage{23}, \hyperpage{30}
-  \item penne, \hyperpage{18}
+  \item penne, \hyperpage{18, 19}
   \item peperoncino, \hyperpage{22}, \hyperpage{41}
   \item pesce spada, \hyperpage{26}
   \item pollo, \hyperpage{29}, \hyperpage{33}, \hyperpage{35}, 
 		\hyperpage{37}
   \item porro, \hyperpage{8}
   \item prezzemolo, \hyperpage{32}
+  \item prosciutto, \hyperpage{20}
   \item prosciutto cotto, \hyperpage{30}, \hyperpage{34}
   \item provola, \hyperpage{30}
 
@@ -159,7 +160,7 @@
 
   \item uova, \hyperpage{12}, \hyperpage{15}, \hyperpage{17}, 
 		\hyperpage{20}, \hyperpage{23}, \hyperpage{29, 30}, 
-		\hyperpage{44, 45}, \hyperpage{48, 49}
+		\hyperpage{44, 45}, \hyperpage{48, 49}, \hyperpage{52}
   \item uvetta, \hyperpage{34}
 
   \indexspace
@@ -173,5 +174,6 @@
   \indexspace
 
   \item zucchero, \hyperpage{11}, \hyperpage{49, 50}
+  \item zucchero a velo, \hyperpage{46}, \hyperpage{52}
 
 \end{theindex}
