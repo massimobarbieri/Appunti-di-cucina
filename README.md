@@ -29,7 +29,6 @@
 
 
 
-
 ### LINEE GUIDA PER LA GESTIONE DEL REPOSITORY 
 
  1. Se puoi, compila e correggi gli errori prima di inviare le 
