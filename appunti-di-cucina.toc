@@ -1,59 +1,62 @@
 \babel@toc {italian}{}\relax 
 \babel@toc {italian}{}\relax 
-\contentsline {chapter}{\numberline {1}Pane e lievitati}{2}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Crackers al sesamo}{3}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Panini da hamburger veloci}{4}{section.1.2}%
-\contentsline {section}{\numberline {1.3}Pizza in teglia}{5}{section.1.3}%
-\contentsline {chapter}{\numberline {2}Antipasti}{6}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Mini hamburger di orata}{7}{section.2.1}%
-\contentsline {chapter}{\numberline {3}Sale e preparazioni di base}{8}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Besciamella}{9}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Cipolle caramellate}{10}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Maionese}{11}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Rub: Magic Dust}{12}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Salsa BBQ all'abicocca}{13}{section.3.5}%
-\contentsline {section}{\numberline {3.6}Sfoglia}{14}{section.3.6}%
-\contentsline {chapter}{\numberline {4}Primi}{15}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Lasagne}{16}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Penne rosa}{17}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Penne all'ubriaca}{18}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Pesto dei cappelletti}{19}{section.4.4}%
-\contentsline {section}{\numberline {4.5}Riso per sushi, poke o insalata}{20}{section.4.5}%
-\contentsline {section}{\numberline {4.6}Risotto con gallinella di mare}{21}{section.4.6}%
-\contentsline {section}{\numberline {4.7}Spaghetti alla carbonara}{22}{section.4.7}%
-\contentsline {chapter}{\numberline {5}Secondi di pesce}{23}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Baccalà mantecato}{24}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Pesce spada al salmoriglio}{25}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Tataki di tonno fagioli e cipolla}{26}{section.5.3}%
-\contentsline {chapter}{\numberline {6}Secondi di carne}{27}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Nuggets di pollo}{28}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Polpettone di manzo}{29}{section.6.2}%
-\contentsline {chapter}{\numberline {7}BBQ}{30}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Bombette pugliesi}{31}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Eliche di pollo al curry}{32}{section.7.2}%
-\contentsline {section}{\numberline {7.3}Involtini di carne alla siciliana}{33}{section.7.3}%
-\contentsline {section}{\numberline {7.4}Pollo marinato agli agrumi}{34}{section.7.4}%
-\contentsline {section}{\numberline {7.5}Pork ribs}{35}{section.7.5}%
-\contentsline {section}{\numberline {7.6}Chicken wings}{36}{section.7.6}%
-\contentsline {chapter}{\numberline {8}Cottura a bassa temperatura (CBT)}{37}{chapter.8}%
-\contentsline {section}{\numberline {8.1}Beef ribs (CBT)}{38}{section.8.1}%
-\contentsline {section}{\numberline {8.2}Stinco di maiale (CBT)}{39}{section.8.2}%
-\contentsline {section}{\numberline {8.3}Vitello tonnato (CBT)}{40}{section.8.3}%
-\contentsline {chapter}{\numberline {9}Dolci}{41}{chapter.9}%
-\contentsline {section}{\numberline {9.1}Barrette energetiche}{42}{section.9.1}%
-\contentsline {section}{\numberline {9.2}Bigné (Pasta choux)}{43}{section.9.2}%
-\contentsline {section}{\numberline {9.3}Biscotti di Natale}{44}{section.9.3}%
-\contentsline {section}{\numberline {9.4}Cassatine siciliane}{45}{section.9.4}%
-\contentsline {section}{\numberline {9.5}Cioccolata in tazza}{46}{section.9.5}%
-\contentsline {section}{\numberline {9.6}Crema pasticcera}{47}{section.9.6}%
-\contentsline {section}{\numberline {9.7}Crostata di limone e mandorle}{48}{section.9.7}%
-\contentsline {section}{\numberline {9.8}Gelato: stracciatella al basilico}{49}{section.9.8}%
-\contentsline {section}{\numberline {9.9}Nocciolata}{50}{section.9.9}%
-\contentsline {section}{\numberline {9.10}Pancake}{51}{section.9.10}%
-\contentsline {chapter}{\numberline {10}Cocktails}{52}{chapter.10}%
-\contentsline {section}{\numberline {10.1}Bitter: appunti}{53}{section.10.1}%
-\contentsline {section}{\numberline {10.2}Gin: appunti}{54}{section.10.2}%
-\contentsline {section}{\numberline {10.3}Negroni \& Americano}{55}{section.10.3}%
-\contentsline {section}{\numberline {10.4}Vermouth: appunti}{56}{section.10.4}%
-\contentsline {part}{I\hspace {1em}Indici}{57}{part.1}%
-\contentsline {chapter}{Indice degli ingredienti}{58}{section*.10}%
+\contentsline {section}{\numberline {0.1}Simboli utilizzati nel testo}{1}{section.0.1}%
+\contentsline {section}{\numberline {0.2}Appunti sulle temperature di cottura al cuore}{1}{section.0.2}%
+\contentsline {section}{\numberline {0.3}Appunti di cottura a bassa temperatura (CBT)}{2}{section.0.3}%
+\contentsline {chapter}{\numberline {1}Pane e lievitati}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Crackers al sesamo}{4}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Panini da hamburger veloci}{5}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Pizza in teglia}{6}{section.1.3}%
+\contentsline {chapter}{\numberline {2}Antipasti}{7}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Mini hamburger di orata}{8}{section.2.1}%
+\contentsline {chapter}{\numberline {3}Sale e preparazioni di base}{9}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Besciamella}{10}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Cipolle caramellate}{11}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Maionese}{12}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Rub: Magic Dust}{13}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Salsa BBQ all'abicocca}{14}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Sfoglia}{15}{section.3.6}%
+\contentsline {chapter}{\numberline {4}Primi}{16}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Lasagne}{17}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Penne rosa}{18}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Penne all'ubriaca}{19}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Pesto dei cappelletti}{20}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Riso per sushi, poke o insalata}{21}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Risotto con gallinella di mare}{22}{section.4.6}%
+\contentsline {section}{\numberline {4.7}Spaghetti alla carbonara}{23}{section.4.7}%
+\contentsline {chapter}{\numberline {5}Secondi di pesce}{24}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Baccalà mantecato}{25}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Pesce spada al salmoriglio}{26}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Tataki di tonno fagioli e cipolla}{27}{section.5.3}%
+\contentsline {chapter}{\numberline {6}Secondi di carne}{28}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Nuggets di pollo}{29}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Polpettone di manzo}{30}{section.6.2}%
+\contentsline {chapter}{\numberline {7}BBQ}{31}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Bombette pugliesi}{32}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Eliche di pollo al curry}{33}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Involtini di carne alla siciliana}{34}{section.7.3}%
+\contentsline {section}{\numberline {7.4}Pollo marinato agli agrumi}{35}{section.7.4}%
+\contentsline {section}{\numberline {7.5}Pork ribs}{36}{section.7.5}%
+\contentsline {section}{\numberline {7.6}Chicken wings}{37}{section.7.6}%
+\contentsline {chapter}{\numberline {8}Cottura a bassa temperatura (CBT)}{38}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Beef ribs (CBT)}{39}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Stinco di maiale (CBT)}{40}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Vitello tonnato (CBT)}{41}{section.8.3}%
+\contentsline {chapter}{\numberline {9}Dolci}{42}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Barrette energetiche}{43}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Bigné (Pasta choux)}{44}{section.9.2}%
+\contentsline {section}{\numberline {9.3}Biscotti di Natale}{45}{section.9.3}%
+\contentsline {section}{\numberline {9.4}Cassatine siciliane}{46}{section.9.4}%
+\contentsline {section}{\numberline {9.5}Cioccolata in tazza}{47}{section.9.5}%
+\contentsline {section}{\numberline {9.6}Crema pasticcera}{48}{section.9.6}%
+\contentsline {section}{\numberline {9.7}Crostata di limone e mandorle}{49}{section.9.7}%
+\contentsline {section}{\numberline {9.8}Gelato: stracciatella al basilico}{50}{section.9.8}%
+\contentsline {section}{\numberline {9.9}Nocciolata}{51}{section.9.9}%
+\contentsline {section}{\numberline {9.10}Pancake}{52}{section.9.10}%
+\contentsline {chapter}{\numberline {10}Cocktails}{53}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Bitter: appunti}{54}{section.10.1}%
+\contentsline {section}{\numberline {10.2}Gin: appunti}{55}{section.10.2}%
+\contentsline {section}{\numberline {10.3}Negroni \& Americano}{56}{section.10.3}%
+\contentsline {section}{\numberline {10.4}Vermouth: appunti}{57}{section.10.4}%
+\contentsline {part}{I\hspace {1em}Indici}{58}{part.1}%
+\contentsline {chapter}{Indice degli ingredienti}{59}{section*.10}%
