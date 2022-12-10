@@ -2,7 +2,7 @@
 \babel@toc {italian}{}\relax 
 \contentsline {chapter}{\numberline {1}Pane e lievitati}{2}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Crackers al sesamo}{3}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Panini da hamburgher veloci}{4}{section.1.2}%
+\contentsline {section}{\numberline {1.2}Panini da hamburger veloci}{4}{section.1.2}%
 \contentsline {section}{\numberline {1.3}Pizza in teglia}{5}{section.1.3}%
 \contentsline {chapter}{\numberline {2}Antipasti}{6}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Mini hamburger di orata}{7}{section.2.1}%
