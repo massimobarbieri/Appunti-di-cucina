@@ -61,4 +61,4 @@
 \contentsline {section}{\numberline {10.3}Negroni \& Americano}{58}{section.10.3}%
 \contentsline {section}{\numberline {10.4}Vermouth: appunti}{59}{section.10.4}%
 \contentsline {part}{I\hspace {1em}Indici}{60}{part.1}%
-\contentsline {chapter}{Indice degli ingredienti}{61}{section*.10}%
+\contentsline {chapter}{Indice degli ingredienti}{61}{section*.11}%
