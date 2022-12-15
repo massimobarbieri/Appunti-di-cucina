@@ -56,11 +56,12 @@
 \contentsline {section}{\numberline {9.11}Pasta frolla}{53}{section.9.11}%
 \contentsline {section}{\numberline {9.12}Tortellini al forno}{54}{section.9.12}%
 \contentsline {chapter}{\numberline {10}Cocktails}{55}{chapter.10}%
-\contentsline {section}{\numberline {10.1}Negroni \& derivati}{56}{section.10.1}%
-\contentsline {chapter}{\numberline {11}Appunti}{57}{chapter.11}%
-\contentsline {section}{\numberline {11.1}Bitter: appunti}{58}{section.11.1}%
-\contentsline {section}{\numberline {11.2}Gin: appunti}{59}{section.11.2}%
-\contentsline {section}{\numberline {11.3}Vermouth: appunti}{60}{section.11.3}%
-\contentsline {section}{\numberline {11.4}Giardiniera di verdure fermentate}{61}{section.11.4}%
-\contentsline {part}{I\hspace {1em}Indici}{62}{part.1}%
-\contentsline {chapter}{Indice degli ingredienti}{63}{section*.11}%
+\contentsline {section}{\numberline {10.1}Mule e derivati}{56}{section.10.1}%
+\contentsline {section}{\numberline {10.2}Negroni \& derivati}{57}{section.10.2}%
+\contentsline {chapter}{\numberline {11}Appunti}{58}{chapter.11}%
+\contentsline {section}{\numberline {11.1}Bitter: appunti}{59}{section.11.1}%
+\contentsline {section}{\numberline {11.2}Gin: appunti}{60}{section.11.2}%
+\contentsline {section}{\numberline {11.3}Vermouth: appunti}{61}{section.11.3}%
+\contentsline {section}{\numberline {11.4}Giardiniera di verdure fermentate}{62}{section.11.4}%
+\contentsline {part}{I\hspace {1em}Indici}{63}{part.1}%
+\contentsline {chapter}{Indice degli ingredienti}{64}{section*.11}%
