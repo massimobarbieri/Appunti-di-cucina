@@ -56,7 +56,7 @@
 \contentsline {section}{\numberline {9.11}Pasta frolla}{53}{section.9.11}%
 \contentsline {section}{\numberline {9.12}Tortellini al forno}{54}{section.9.12}%
 \contentsline {chapter}{\numberline {10}Cocktails}{55}{chapter.10}%
-\contentsline {section}{\numberline {10.1}Negroni \& Americano}{56}{section.10.1}%
+\contentsline {section}{\numberline {10.1}Negroni \& derivati}{56}{section.10.1}%
 \contentsline {chapter}{\numberline {11}Appunti}{57}{chapter.11}%
 \contentsline {section}{\numberline {11.1}Bitter: appunti}{58}{section.11.1}%
 \contentsline {section}{\numberline {11.2}Gin: appunti}{59}{section.11.2}%
