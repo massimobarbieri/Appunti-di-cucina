@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2022.12.24)  1 FEB 2023 13:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2023.2.8)  26 FEB 2023 15:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **appunti-di-cucina.tex
 (./appunti-di-cucina.tex
-LaTeX2e <2022-11-01>
-L3 programming layer <2022-11-02>
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-01-16>
 (/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2022/07/02 v1.4n Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
@@ -20,22 +20,22 @@ File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 \c@subparagraph=\count191
 \c@figure=\count192
 \c@table=\count193
-\abovecaptionskip=\skip47
-\belowcaptionskip=\skip48
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
 \bibindent=\dimen140
 )
 (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 
-\f@nch@headwidth=\skip49
-\f@nch@O@elh=\skip50
-\f@nch@O@erh=\skip51
-\f@nch@O@olh=\skip52
-\f@nch@O@orh=\skip53
-\f@nch@O@elf=\skip54
-\f@nch@O@erf=\skip55
-\f@nch@O@olf=\skip56
-\f@nch@O@orf=\skip57
+\f@nch@headwidth=\skip50
+\f@nch@O@elh=\skip51
+\f@nch@O@erh=\skip52
+\f@nch@O@olh=\skip53
+\f@nch@O@orh=\skip54
+\f@nch@O@elf=\skip55
+\f@nch@O@erf=\skip56
+\f@nch@O@olf=\skip57
+\f@nch@O@orf=\skip58
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
@@ -51,8 +51,8 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 \page@free=\dimen143
 \premulticols=\dimen144
 \postmulticols=\dimen145
-\multicolsep=\skip58
-\multicolbaselineskip=\skip59
+\multicolsep=\skip59
+\multicolbaselineskip=\skip60
 \partial@page=\box52
 \last@line=\box53
 \maxbalancingoverflow=\dimen146
@@ -107,7 +107,7 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 \mc@col@check@num=\count269
 )
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2022/10/23 3.82 The Babel package
+Package: babel 2022/12/26 3.84 The Babel package
 \babel@savecnt=\count270
 \U@D=\dimen150
 \l@unhyphenated=\language10
@@ -371,7 +371,7 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 85.
 )
-\Hy@SectionHShift=\skip60
+\Hy@SectionHShift=\skip61
 )
 \appunti-di-cucina@idxfile=\write3
 \openout3 = `appunti-di-cucina.idx'.
@@ -379,7 +379,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 
 Writing index file appunti-di-cucina.idx
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count295
 \l__pdf_internal_box=\box96
 )
@@ -517,108 +517,118 @@ Capitolo 1.
 (./Ricette/Pane-e-lievitati/crackers-al-sesamo.tex [3
 
 ])
-(./Ricette/Pane-e-lievitati/panini-hamburger-veloci.tex [4])
-(./Ricette/Pane-e-lievitati/pizza-da-pizzeria.tex [5])
-(./Ricette/Pane-e-lievitati/pizza-in-teglia.tex [6]) [7]
+(./Ricette/Pane-e-lievitati/mantovane.tex [4])
+(./Ricette/Pane-e-lievitati/panini-hamburger-veloci.tex [5])
+(./Ricette/Pane-e-lievitati/pizza-da-pizzeria.tex [6])
+(./Ricette/Pane-e-lievitati/pizza-in-teglia.tex [7]) [8]
 Capitolo 2.
-(./Ricette/Antipasti/mini-hamburger-di-orata.tex [8
+(./Ricette/Antipasti/mini-hamburger-di-orata.tex [9
 
-]) [9]
+]) [10]
 Capitolo 3.
-(./Ricette/Basi/besciamella.tex [10
+(./Ricette/Basi/besciamella.tex [11
 
 ]) (./Ricette/Salse/cipolle-caramellate.tex
-[11]) (./Ricette/Salse/maionese.tex [12]) (./Ricette/Salse/my-magic-dust.tex
-[13]) (./Ricette/Salse/salsa-bbq.tex [14]) (./Ricette/Basi/sfoglia.tex [15])
-[16]
+[12]) (./Ricette/Salse/maionese.tex [13]) (./Ricette/Salse/my-magic-dust.tex
+[14]) (./Ricette/Salse/salsa-bbq.tex [15]) (./Ricette/Basi/sfoglia.tex [16])
+[17]
 Capitolo 4.
-(./Ricette/Primi/lasagne.tex [17
+(./Ricette/Primi/lasagne.tex [18
 
-]) (./Ricette/Primi/penne-rosa.tex [18])
-(./Ricette/Primi/penne-ubriaca.tex [19]) (./Ricette/Primi/pesto-cappelletti.tex
-[20]) (./Ricette/Primi/riso-per-sushi.tex [21])
-(./Ricette/Primi/risotto-alla-gallinella.tex [22])
-(./Ricette/Primi/carbonara.tex [23]) [24]
+]) (./Ricette/Primi/penne-rosa.tex [19])
+(./Ricette/Primi/penne-ubriaca.tex [20]) (./Ricette/Primi/pesto-cappelletti.tex
+[21]) (./Ricette/Primi/riso-per-sushi.tex [22])
+(./Ricette/Primi/risotto-alla-gallinella.tex [23])
+(./Ricette/Primi/carbonara.tex [24]) [25]
 Capitolo 5.
-(./Ricette/Secondi-di-pesce/baccala-mantecato.tex [25
+(./Ricette/Secondi-di-pesce/baccala-mantecato.tex [26
 
 ])
-(./Ricette/Secondi-di-pesce/pesce-spada-al-salmoriglio.tex [26])
-(./Ricette/Secondi-di-pesce/tataki-di-tonno-agli-agrumi.tex [27]) [28]
+(./Ricette/Secondi-di-pesce/pesce-spada-al-salmoriglio.tex [27])
+(./Ricette/Secondi-di-pesce/tataki-di-tonno-agli-agrumi.tex [28]) [29]
 Capitolo 6.
-(./Ricette/Secondi-di-carne/nuggets-di-pollo.tex [29
+(./Ricette/Secondi-di-carne/nuggets-di-pollo.tex [30
 
 ])
-(./Ricette/Secondi-di-carne/polpettone.tex [30]) [31]
+(./Ricette/Secondi-di-carne/polpettone.tex [31]) [32]
 Capitolo 7.
-(./Ricette/BBQ/bombette-pugliesi.tex [32
+(./Ricette/BBQ/bombette-pugliesi.tex [33
 
 ])
-(./Ricette/BBQ/eliche-di-pollo-al-curry.tex [33])
-(./Ricette/BBQ/involtini-alla-siciliana.tex [34])
-(./Ricette/BBQ/pollo-marinato-agli-agrumi.tex [35])
-(./Ricette/BBQ/pork-ribs.tex [36]) (./Ricette/BBQ/smoked-chicken-wings.tex
-[37]) [38]
+(./Ricette/BBQ/eliche-di-pollo-al-curry.tex [34])
+(./Ricette/BBQ/involtini-alla-siciliana.tex [35])
+(./Ricette/BBQ/pollo-marinato-agli-agrumi.tex [36])
+(./Ricette/BBQ/pork-ribs.tex [37]) (./Ricette/BBQ/smoked-chicken-wings.tex
+[38]) [39]
 Capitolo 8.
-(./Ricette/CBT/beef-ribs.tex [39
+(./Ricette/CBT/beef-ribs.tex [40
 
 ]) (./Ricette/CBT/stinco-di-maiale-cbt.tex
-[40]) (./Ricette/CBT/vitello-tonnato-cbt.tex [41]) [42]
+[41]) (./Ricette/CBT/vitello-tonnato-cbt.tex [42]) [43]
 Capitolo 9.
-(./Ricette/Dolci/barrette-energetiche.tex [43
+(./Ricette/Dolci/barrette-energetiche.tex [44
 
 ]) (./Ricette/Dolci/bigne.tex
-[44]) (./Ricette/Dolci/biscotti-di-natale.tex [45])
-(./Ricette/Dolci/cassatine-siciliane.tex [46]
-<img/cassatina.png, id=578, 153.9351pt x 60.9477pt>
+[45]) (./Ricette/Dolci/biscotti-di-natale.tex [46])
+(./Ricette/Dolci/cassatine-siciliane.tex [47]
+<img/cassatina.png, id=583, 153.9351pt x 60.9477pt>
 File: img/cassatina.png Graphic file (type png)
 <use img/cassatina.png>
 Package pdftex.def Info: img/cassatina.png  used on input line 59.
 (pdftex.def)             Requested size: 162.6075pt x 64.3866pt.
 )
-(./Ricette/Dolci/cioccolata-in-tazza.tex [47 <./img/cassatina.png>])
-(./Ricette/Dolci/crema-pasticcera.tex [48])
-(./Ricette/Dolci/crostata-di-limone.tex [49])
-(./Ricette/Dolci/gelato-stracciatella-al-basilico.tex [50])
-(./Ricette/Dolci/nocciolata.tex [51]) (./Ricette/Dolci/pancake.tex [52])
-(./Ricette/Dolci/frolla.tex [53]) (./Ricette/Dolci/tortellini.tex [54])
-[55]
+(./Ricette/Dolci/cioccolata-in-tazza.tex [48 <./img/cassatina.png>])
+(./Ricette/Dolci/crema-pasticcera.tex [49])
+(./Ricette/Dolci/crostata-di-limone.tex [50])
+(./Ricette/Dolci/gelato-stracciatella-al-basilico.tex [51])
+(./Ricette/Dolci/nocciolata.tex [52]) (./Ricette/Dolci/pancake.tex [53])
+(./Ricette/Dolci/frolla.tex [54]) (./Ricette/Dolci/tortellini.tex [55])
+[56]
 Capitolo 10.
-(./Ricette/Cocktails/mule.tex [56
+(./Ricette/Cocktails/mule.tex [57
 
-]) (./Ricette/Cocktails/negroni.tex [57]
-<img/negroni.png, id=633, 375.0813pt x 232.34805pt>
+]) (./Ricette/Cocktails/negroni.tex [58]
+<img/negroni.png, id=639, 375.0813pt x 232.34805pt>
 File: img/negroni.png Graphic file (type png)
 <use img/negroni.png>
 Package pdftex.def Info: img/negroni.png  used on input line 39.
 (pdftex.def)             Requested size: 375.08038pt x 232.34747pt.
 )
-[58 <./img/negroni.png>]
+[59 <./img/negroni.png>]
 Capitolo 11.
-(./Ricette/Cocktails/bitter.tex [59
+(./Ricette/Cocktails/bitter.tex [60
 
-]) (./Ricette/Cocktails/gin.tex [60])
-(./Ricette/Cocktails/vermouth.tex [61]) (./Ricette/Basi/giardiniera.tex
-[62]) [63] [64
+]) (./Ricette/Cocktails/gin.tex [61])
+(./Ricette/Cocktails/vermouth.tex [62]) (./Ricette/Basi/giardiniera.tex
+[63]) [64] [65
 
 ]
 runsystem(makeindex appunti-di-cucina.idx)...executed safely (allowed).
 
- (./appunti-di-cucina.ind [65
+ (./appunti-di-cucina.ind [66
 
 
-]) [66] (./appunti-di-cucina.aux)
-Package rerunfilecheck Info: File `appunti-di-cucina.out' has not changed.
-(rerunfilecheck)             Checksum: 344E9FEAA10B6C2A9B02E1A54CCD318A;10090.
+]) [67] (./appunti-di-cucina.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `appunti-di-cucina.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `appunti-di-cucina.out':
+(rerunfilecheck)             Before: 344E9FEAA10B6C2A9B02E1A54CCD318A;10090
+(rerunfilecheck)             After:  CBB421D91560A034A2FC171794B0010C;10269.
  ) 
 Here is how much of TeX's memory you used:
- 11874 strings out of 476806
- 193313 string characters out of 5822450
- 561642 words of memory out of 5000000
- 32670 multiletter control sequences out of 15000+600000
- 475789 words of font info for 50 fonts, out of 8000000 for 9000
+ 11879 strings out of 477926
+ 193521 string characters out of 5837871
+ 1864330 words of memory out of 5000000
+ 31550 multiletter control sequences out of 15000+600000
+ 518817 words of font info for 54 fonts, out of 8000000 for 9000
  81 hyphenation exceptions out of 8191
- 72i,11n,77p,731b,631s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,76p,731b,637s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc} </home/mbarbieri
 /.texlive2022/texmf-var/fonts/pk/ljfour/public/cookingsymbols/cookingsymbols.60
 0pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></
@@ -632,10 +642,10 @@ blic/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
 fonts/cm/cmsl10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti
 10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on appunti-di-cucina.pdf (69 pages, 365411 bytes).
+Output written on appunti-di-cucina.pdf (70 pages, 367077 bytes).
 PDF statistics:
- 1003 PDF objects out of 1200 (max. 8388607)
- 890 compressed objects within 9 object streams
- 152 named destinations out of 1000 (max. 500000)
+ 1008 PDF objects out of 1200 (max. 8388607)
+ 894 compressed objects within 9 object streams
+ 154 named destinations out of 1000 (max. 500000)
  539 words of extra memory for PDF output out of 10000 (max. 10000000)
 
