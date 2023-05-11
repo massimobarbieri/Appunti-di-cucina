@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2023.4.15)  4 MAY 2023 17:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2023.5.10)  11 MAY 2023 14:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -519,104 +519,105 @@ Capitolo 1.
 ])
 (./Ricette/Pane-e-lievitati/mantovane.tex [4])
 (./Ricette/Pane-e-lievitati/panini-hamburger-veloci.tex [5])
-(./Ricette/Pane-e-lievitati/pizza-da-pizzeria.tex [6])
-(./Ricette/Pane-e-lievitati/pizza-in-teglia.tex [7]) [8]
+(./Ricette/Pane-e-lievitati/pan-bauletto.tex [6])
+(./Ricette/Pane-e-lievitati/pizza-da-pizzeria.tex [7])
+(./Ricette/Pane-e-lievitati/pizza-in-teglia.tex [8]) [9]
 Capitolo 2.
-(./Ricette/Antipasti/mini-hamburger-di-orata.tex [9
+(./Ricette/Antipasti/mini-hamburger-di-orata.tex [10
 
-]) [10]
+]) [11]
 Capitolo 3.
-(./Ricette/Basi/besciamella.tex [11
+(./Ricette/Basi/besciamella.tex [12
 
 ]) (./Ricette/Salse/cipolle-caramellate.tex
-[12]) (./Ricette/Salse/maionese.tex [13]) (./Ricette/Salse/my-magic-dust.tex
-[14]) (./Ricette/Salse/salsa-bbq.tex [15]) (./Ricette/Basi/sfoglia.tex [16])
-[17]
+[13]) (./Ricette/Salse/maionese.tex [14]) (./Ricette/Salse/my-magic-dust.tex
+[15]) (./Ricette/Salse/salsa-bbq.tex [16]) (./Ricette/Basi/sfoglia.tex [17])
+[18]
 Capitolo 4.
-(./Ricette/Primi/lasagne.tex [18
+(./Ricette/Primi/lasagne.tex [19
 
-]) (./Ricette/Primi/penne-rosa.tex [19])
-(./Ricette/Primi/penne-ubriaca.tex [20]) (./Ricette/Primi/pesto-cappelletti.tex
-[21]) (./Ricette/Primi/riso-per-sushi.tex [22])
-(./Ricette/Primi/risotto-alla-gallinella.tex [23])
-(./Ricette/Primi/carbonara.tex [24]) [25]
+]) (./Ricette/Primi/penne-rosa.tex [20])
+(./Ricette/Primi/penne-ubriaca.tex [21]) (./Ricette/Primi/pesto-cappelletti.tex
+[22]) (./Ricette/Primi/riso-per-sushi.tex [23])
+(./Ricette/Primi/risotto-alla-gallinella.tex [24])
+(./Ricette/Primi/carbonara.tex [25]) [26]
 Capitolo 5.
-(./Ricette/Secondi-di-pesce/baccala-mantecato.tex [26
+(./Ricette/Secondi-di-pesce/baccala-mantecato.tex [27
 
 ])
-(./Ricette/Secondi-di-pesce/pesce-spada-al-salmoriglio.tex [27])
-(./Ricette/Secondi-di-pesce/tataki-di-tonno-agli-agrumi.tex [28]) [29]
+(./Ricette/Secondi-di-pesce/pesce-spada-al-salmoriglio.tex [28])
+(./Ricette/Secondi-di-pesce/tataki-di-tonno-agli-agrumi.tex [29]) [30]
 Capitolo 6.
-(./Ricette/Secondi-di-carne/nuggets-di-pollo.tex [30
+(./Ricette/Secondi-di-carne/nuggets-di-pollo.tex [31
 
 ])
-(./Ricette/Secondi-di-carne/polpettone.tex [31]) [32]
+(./Ricette/Secondi-di-carne/polpettone.tex [32]) [33]
 Capitolo 7.
-(./Ricette/BBQ/bombette-pugliesi.tex [33
+(./Ricette/BBQ/bombette-pugliesi.tex [34
 
 ])
-(./Ricette/BBQ/eliche-di-pollo-al-curry.tex [34])
-(./Ricette/BBQ/involtini-alla-siciliana.tex [35])
-(./Ricette/BBQ/pollo-marinato-agli-agrumi.tex [36])
-(./Ricette/BBQ/pork-ribs.tex [37]) (./Ricette/BBQ/smoked-chicken-wings.tex
-[38]) [39]
+(./Ricette/BBQ/eliche-di-pollo-al-curry.tex [35])
+(./Ricette/BBQ/involtini-alla-siciliana.tex [36])
+(./Ricette/BBQ/pollo-marinato-agli-agrumi.tex [37])
+(./Ricette/BBQ/pork-ribs.tex [38]) (./Ricette/BBQ/smoked-chicken-wings.tex
+[39]) [40]
 Capitolo 8.
-(./Ricette/CBT/beef-ribs.tex [40
+(./Ricette/CBT/beef-ribs.tex [41
 
 ]) (./Ricette/CBT/stinco-di-maiale-cbt.tex
-[41]) (./Ricette/CBT/vitello-tonnato-cbt.tex [42]) [43]
+[42]) (./Ricette/CBT/vitello-tonnato-cbt.tex [43]) [44]
 Capitolo 9.
-(./Ricette/Dolci/barrette-energetiche.tex [44
+(./Ricette/Dolci/barrette-energetiche.tex [45
 
 ]) (./Ricette/Dolci/bigne.tex
-[45]) (./Ricette/Dolci/biscotti-di-natale.tex [46])
-(./Ricette/Dolci/cassatine-siciliane.tex [47]
-<img/cassatina.png, id=587, 153.9351pt x 60.9477pt>
+[46]) (./Ricette/Dolci/biscotti-di-natale.tex [47])
+(./Ricette/Dolci/cassatine-siciliane.tex [48]
+<img/cassatina.png, id=596, 153.9351pt x 60.9477pt>
 File: img/cassatina.png Graphic file (type png)
 <use img/cassatina.png>
 Package pdftex.def Info: img/cassatina.png  used on input line 59.
 (pdftex.def)             Requested size: 162.6075pt x 64.3866pt.
 )
-(./Ricette/Dolci/cioccolata-in-tazza.tex [48 <./img/cassatina.png>])
-(./Ricette/Dolci/crema-pasticcera.tex [49])
-(./Ricette/Dolci/crostata-di-limone.tex [50])
-(./Ricette/Dolci/gelato-stracciatella-al-basilico.tex [51])
-(./Ricette/Dolci/nocciolata.tex [52]) (./Ricette/Dolci/pancake.tex [53])
-(./Ricette/Dolci/frolla.tex [54]) (./Ricette/Dolci/tortellini.tex [55])
-[56]
+(./Ricette/Dolci/cioccolata-in-tazza.tex [49 <./img/cassatina.png>])
+(./Ricette/Dolci/crema-pasticcera.tex [50])
+(./Ricette/Dolci/crostata-di-limone.tex [51])
+(./Ricette/Dolci/gelato-stracciatella-al-basilico.tex [52])
+(./Ricette/Dolci/nocciolata.tex [53]) (./Ricette/Dolci/pancake.tex [54])
+(./Ricette/Dolci/frolla.tex [55]) (./Ricette/Dolci/tortellini.tex [56])
+[57]
 Capitolo 10.
-(./Ricette/Cocktails/mule.tex [57
+(./Ricette/Cocktails/mule.tex [58
 
-]) (./Ricette/Cocktails/negroni.tex [58]
-<img/negroni.png, id=643, 375.0813pt x 232.34805pt>
+]) (./Ricette/Cocktails/negroni.tex [59]
+<img/negroni.png, id=652, 375.0813pt x 232.34805pt>
 File: img/negroni.png Graphic file (type png)
 <use img/negroni.png>
 Package pdftex.def Info: img/negroni.png  used on input line 39.
 (pdftex.def)             Requested size: 375.08038pt x 232.34747pt.
 )
-[59 <./img/negroni.png>]
+[60 <./img/negroni.png>]
 Capitolo 11.
-(./Ricette/Cocktails/bitter.tex [60
+(./Ricette/Cocktails/bitter.tex [61
 
-]) (./Ricette/Cocktails/gin.tex [61])
-(./Ricette/Cocktails/vermouth.tex [62]) (./Ricette/Basi/giardiniera.tex
-[63]) [64] [65
+]) (./Ricette/Cocktails/gin.tex [62])
+(./Ricette/Cocktails/vermouth.tex [63]) (./Ricette/Basi/giardiniera.tex
+[64]) [65] [66
 
 ]
 runsystem(makeindex appunti-di-cucina.idx)...executed safely (allowed).
 
- (./appunti-di-cucina.ind [66
+ (./appunti-di-cucina.ind [67
 
 
-]) [67] (./appunti-di-cucina.aux)
+]) [68] (./appunti-di-cucina.aux)
 Package rerunfilecheck Info: File `appunti-di-cucina.out' has not changed.
-(rerunfilecheck)             Checksum: 878F15702C546E8048AE512117B53669;10274.
+(rerunfilecheck)             Checksum: 5D36801E64C0F26F66FE9F81F6EC6417;10392.
  ) 
 Here is how much of TeX's memory you used:
- 11880 strings out of 477926
- 193534 string characters out of 5837870
+ 11889 strings out of 477926
+ 193812 string characters out of 5837870
  1864330 words of memory out of 5000000
- 31551 multiletter control sequences out of 15000+600000
+ 31555 multiletter control sequences out of 15000+600000
  518817 words of font info for 54 fonts, out of 8000000 for 9000
  81 hyphenation exceptions out of 8191
  75i,11n,76p,731b,637s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -633,10 +634,10 @@ blic/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
 fonts/cm/cmsl10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti
 10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on appunti-di-cucina.pdf (70 pages, 367220 bytes).
+Output written on appunti-di-cucina.pdf (71 pages, 368729 bytes).
 PDF statistics:
- 1012 PDF objects out of 1200 (max. 8388607)
- 898 compressed objects within 9 object streams
- 154 named destinations out of 1000 (max. 500000)
- 547 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1022 PDF objects out of 1200 (max. 8388607)
+ 906 compressed objects within 10 object streams
+ 156 named destinations out of 1000 (max. 500000)
+ 555 words of extra memory for PDF output out of 10000 (max. 10000000)
 
