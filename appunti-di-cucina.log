@@ -1,15 +1,15 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2023.5.10)  11 MAY 2023 14:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2023.10.18)  19 OCT 2023 17:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **appunti-di-cucina.tex
 (./appunti-di-cucina.tex
-LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2023-01-16>
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
 (/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
-Document Class: report 2022/07/02 v1.4n Standard LaTeX document class
+Document Class: report 2023/05/17 v1.4n Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
 \c@chapter=\count186
@@ -38,7 +38,7 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@O@orf=\skip58
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
-Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
+Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
 \c@tracingmulticols=\count194
 \mult@box=\box51
 \multicol@leftmargin=\dimen141
@@ -55,12 +55,12 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 \multicolbaselineskip=\skip60
 \partial@page=\box52
 \last@line=\box53
+\mc@boxedresult=\box54
 \maxbalancingoverflow=\dimen146
-\mult@rightbox=\box54
-\mult@grightbox=\box55
-\mult@firstbox=\box56
-\mult@gfirstbox=\box57
-\@tempa=\box58
+\mult@rightbox=\box55
+\mult@grightbox=\box56
+\mult@firstbox=\box57
+\mult@gfirstbox=\box58
 \@tempa=\box59
 \@tempa=\box60
 \@tempa=\box61
@@ -96,21 +96,22 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 \@tempa=\box91
 \@tempa=\box92
 \@tempa=\box93
+\@tempa=\box94
 \c@minrows=\count266
 \c@columnbadness=\count267
 \c@finalcolumnbadness=\count268
 \last@try=\dimen147
 \multicolovershoot=\dimen148
 \multicolundershoot=\dimen149
-\mult@nat@firstbox=\box94
-\colbreak@box=\box95
+\mult@nat@firstbox=\box95
+\colbreak@box=\box96
 \mc@col@check@num=\count269
 )
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2022/12/26 3.84 The Babel package
+Package: babel 2023/09/29 v3.95 The Babel package
 \babel@savecnt=\count270
 \U@D=\dimen150
-\l@unhyphenated=\language10
+\l@unhyphenated=\language12
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
@@ -139,8 +140,8 @@ Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 
 (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
 (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks16
-\XKV@tempa@toks=\toks17
+\XKV@toks=\toks17
+\XKV@tempa@toks=\toks18
 
 (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/keyval.tex))
 \XKV@depth=\count276
@@ -172,7 +173,7 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutheight=\dimen156
 \Gm@layouthoffset=\dimen157
 \Gm@layoutvoffset=\dimen158
-\Gm@dimlist=\toks18
+\Gm@dimlist=\toks19
 )
 (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
@@ -237,7 +238,7 @@ Package graphics Info: Driver file: pdftex.def on input line 107.
 Package: cookingsymbols 2014/12/28 v1.1 symbols for recipes by Sven Harder
 )
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2022-11-13 v7.00u Hypertext links for LaTeX
+Package: hyperref 2023-07-08 v7.01b Hypertext links for LaTeX
 
 (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
@@ -272,7 +273,7 @@ Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+Package: nameref 2023-08-07 v2.53 Cross-referencing by name of section
 
 (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
@@ -290,37 +291,34 @@ Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 \Hy@pagecounter=\count286
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2022-11-13 v7.00u Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2023-07-08 v7.01b Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
 (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
-Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
-)
 \Hy@SavedSpaceFactor=\count287
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2022-11-13 v7.00u Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2023-07-08 v7.01b Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Hyper figures OFF on input line 4162.
-Package hyperref Info: Link nesting OFF on input line 4167.
-Package hyperref Info: Hyper index ON on input line 4170.
-Package hyperref Info: Plain pages OFF on input line 4177.
-Package hyperref Info: Backreferencing OFF on input line 4182.
+Package hyperref Info: Hyper figures OFF on input line 4167.
+Package hyperref Info: Link nesting OFF on input line 4172.
+Package hyperref Info: Hyper index ON on input line 4175.
+Package hyperref Info: Plain pages OFF on input line 4182.
+Package hyperref Info: Backreferencing OFF on input line 4187.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4410.
+Package hyperref Info: Bookmarks ON on input line 4434.
 \c@Hy@tempcnt=\count288
 
 (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4748.
+LaTeX Info: Redefining \url on input line 4772.
 \XeTeXLinkMargin=\dimen175
 
 (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
@@ -333,13 +331,13 @@ Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 \Fld@menulength=\count289
 \Field@Width=\dimen176
 \Fld@charsize=\dimen177
-Package hyperref Info: Hyper figures OFF on input line 6027.
-Package hyperref Info: Link nesting OFF on input line 6032.
-Package hyperref Info: Hyper index ON on input line 6035.
-Package hyperref Info: backreferencing OFF on input line 6042.
-Package hyperref Info: Link coloring OFF on input line 6047.
-Package hyperref Info: Link coloring with OCG OFF on input line 6052.
-Package hyperref Info: PDF/A mode OFF on input line 6057.
+Package hyperref Info: Hyper figures OFF on input line 6051.
+Package hyperref Info: Link nesting OFF on input line 6056.
+Package hyperref Info: Hyper index ON on input line 6059.
+Package hyperref Info: backreferencing OFF on input line 6066.
+Package hyperref Info: Link coloring OFF on input line 6071.
+Package hyperref Info: Link coloring with OCG OFF on input line 6076.
+Package hyperref Info: PDF/A mode OFF on input line 6081.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
@@ -352,7 +350,7 @@ package with kernel methods
 Package hyperref Info: Driver (autodetected): hpdftex.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2022-11-13 v7.00u Hyperref driver for pdfTeX
+File: hpdftex.def 2023-07-08 v7.01b Hyperref driver for pdfTeX
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
@@ -379,9 +377,9 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 
 Writing index file appunti-di-cucina.idx
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count295
-\l__pdf_internal_box=\box96
+\l__pdf_internal_box=\box97
 )
 (./appunti-di-cucina.aux)
 \openout1 = `appunti-di-cucina.aux'.
@@ -453,15 +451,15 @@ italian.ldf    on input line 151.
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count296
 \scratchdimen=\dimen178
-\scratchbox=\box97
+\scratchbox=\box98
 \nofMPsegments=\count297
 \nofMParguments=\count298
-\everyMPshowfont=\toks19
+\everyMPshowfont=\toks20
 \MPscratchCnt=\count299
 \MPscratchDim=\dimen179
 \MPnumerator=\count300
 \makeMPintoPDFobject=\count301
-\everyMPtoPDFconversion=\toks20
+\everyMPtoPDFconversion=\toks21
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -512,7 +510,7 @@ l.28
       [1
 
 
-]) [2]
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]) [2]
 Capitolo 1.
 (./Ricette/Pane-e-lievitati/crackers-al-sesamo.tex [3
 
@@ -530,114 +528,118 @@ Capitolo 3.
 (./Ricette/Basi/besciamella.tex [12
 
 ]) (./Ricette/Salse/cipolle-caramellate.tex
-[13]) (./Ricette/Salse/maionese.tex [14]) (./Ricette/Salse/my-magic-dust.tex
-[15]) (./Ricette/Salse/salsa-bbq.tex [16]) (./Ricette/Basi/sfoglia.tex [17])
-[18]
+[13]) (./Ricette/Salse/maionese.tex [14]) (./Ricette/Salse/rub-delicato.tex
+[15]) (./Ricette/Salse/my-magic-dust.tex [16]) (./Ricette/Salse/salsa-bbq.tex
+[17]) (./Ricette/Basi/sfoglia.tex [18]) [19]
 Capitolo 4.
-(./Ricette/Primi/lasagne.tex [19
+(./Ricette/Primi/lasagne.tex [20
 
-]) (./Ricette/Primi/penne-rosa.tex [20])
-(./Ricette/Primi/penne-ubriaca.tex [21]) (./Ricette/Primi/pesto-cappelletti.tex
-[22]) (./Ricette/Primi/riso-per-sushi.tex [23])
-(./Ricette/Primi/risotto-alla-gallinella.tex [24])
-(./Ricette/Primi/carbonara.tex [25]) [26]
+]) (./Ricette/Primi/penne-rosa.tex [21])
+(./Ricette/Primi/penne-ubriaca.tex [22]) (./Ricette/Primi/pesto-cappelletti.tex
+[23]) (./Ricette/Primi/riso-per-sushi.tex [24])
+(./Ricette/Primi/risotto-alla-gallinella.tex [25])
+(./Ricette/Primi/carbonara.tex [26]) [27]
 Capitolo 5.
-(./Ricette/Secondi-di-pesce/baccala-mantecato.tex [27
+(./Ricette/Secondi-di-pesce/baccala-mantecato.tex [28
 
 ])
-(./Ricette/Secondi-di-pesce/pesce-spada-al-salmoriglio.tex [28])
-(./Ricette/Secondi-di-pesce/tataki-di-tonno-agli-agrumi.tex [29]) [30]
+(./Ricette/Secondi-di-pesce/pesce-spada-al-salmoriglio.tex [29])
+(./Ricette/Secondi-di-pesce/tataki-di-tonno-agli-agrumi.tex [30]) [31]
 Capitolo 6.
-(./Ricette/Secondi-di-carne/nuggets-di-pollo.tex [31
+(./Ricette/Secondi-di-carne/nuggets-di-pollo.tex [32
 
 ])
-(./Ricette/Secondi-di-carne/polpettone.tex [32]) [33]
+(./Ricette/Secondi-di-carne/polpettone.tex [33]) [34]
 Capitolo 7.
-(./Ricette/BBQ/bombette-pugliesi.tex [34
+(./Ricette/BBQ/bombette-pugliesi.tex [35
 
 ])
-(./Ricette/BBQ/eliche-di-pollo-al-curry.tex [35])
-(./Ricette/BBQ/involtini-alla-siciliana.tex [36])
-(./Ricette/BBQ/pollo-marinato-agli-agrumi.tex [37])
-(./Ricette/BBQ/pork-ribs.tex [38]) (./Ricette/BBQ/smoked-chicken-wings.tex
-[39]) [40]
+(./Ricette/BBQ/eliche-di-pollo-al-curry.tex [36])
+(./Ricette/BBQ/involtini-alla-siciliana.tex [37])
+(./Ricette/BBQ/pollo-marinato-agli-agrumi.tex [38])
+(./Ricette/BBQ/pork-ribs.tex [39]) (./Ricette/BBQ/smoked-chicken-wings.tex
+[40]) [41]
 Capitolo 8.
-(./Ricette/CBT/beef-ribs.tex [41
+(./Ricette/CBT/beef-ribs.tex [42
 
 ]) (./Ricette/CBT/stinco-di-maiale-cbt.tex
-[42]) (./Ricette/CBT/vitello-tonnato-cbt.tex [43]) [44]
+[43]) (./Ricette/CBT/vitello-tonnato-cbt.tex [44]) [45]
 Capitolo 9.
-(./Ricette/Dolci/barrette-energetiche.tex [45
+(./Ricette/Dolci/barrette-energetiche.tex [46
 
 ]) (./Ricette/Dolci/bigne.tex
-[46]) (./Ricette/Dolci/biscotti-di-natale.tex [47])
-(./Ricette/Dolci/cassatine-siciliane.tex [48]
-<img/cassatina.png, id=596, 153.9351pt x 60.9477pt>
+[47]) (./Ricette/Dolci/biscotti-di-natale.tex [48])
+(./Ricette/Dolci/cassatine-siciliane.tex [49]
+<img/cassatina.png, id=608, 153.9351pt x 60.9477pt>
 File: img/cassatina.png Graphic file (type png)
 <use img/cassatina.png>
 Package pdftex.def Info: img/cassatina.png  used on input line 59.
 (pdftex.def)             Requested size: 162.6075pt x 64.3866pt.
 )
-(./Ricette/Dolci/cioccolata-in-tazza.tex [49 <./img/cassatina.png>])
-(./Ricette/Dolci/crema-pasticcera.tex [50])
-(./Ricette/Dolci/crostata-di-limone.tex [51])
-(./Ricette/Dolci/gelato-stracciatella-al-basilico.tex [52])
-(./Ricette/Dolci/nocciolata.tex [53]) (./Ricette/Dolci/pancake.tex [54])
-(./Ricette/Dolci/frolla.tex [55]) (./Ricette/Dolci/tortellini.tex [56])
-[57]
+(./Ricette/Dolci/cioccolata-in-tazza.tex [50 <./img/cassatina.png>])
+(./Ricette/Dolci/crema-pasticcera.tex [51])
+(./Ricette/Dolci/crostata-di-limone.tex [52])
+(./Ricette/Dolci/gelato-stracciatella-al-basilico.tex [53])
+(./Ricette/Dolci/nocciolata.tex [54]) (./Ricette/Dolci/pancake.tex [55])
+(./Ricette/Dolci/frolla.tex [56]) (./Ricette/Dolci/tortellini.tex [57])
+[58]
 Capitolo 10.
-(./Ricette/Cocktails/mule.tex [58
+(./Ricette/Cocktails/mule.tex [59
 
-]) (./Ricette/Cocktails/negroni.tex [59]
-<img/negroni.png, id=652, 375.0813pt x 232.34805pt>
+]) (./Ricette/Cocktails/negroni.tex [60]
+<img/negroni.png, id=664, 375.0813pt x 232.34805pt>
 File: img/negroni.png Graphic file (type png)
 <use img/negroni.png>
 Package pdftex.def Info: img/negroni.png  used on input line 39.
 (pdftex.def)             Requested size: 375.08038pt x 232.34747pt.
 )
-[60 <./img/negroni.png>]
+[61 <./img/negroni.png>]
 Capitolo 11.
-(./Ricette/Cocktails/bitter.tex [61
+(./Ricette/Cocktails/bitter.tex [62
 
-]) (./Ricette/Cocktails/gin.tex [62])
-(./Ricette/Cocktails/vermouth.tex [63]) (./Ricette/Basi/giardiniera.tex
-[64]) [65] [66
+]) (./Ricette/Cocktails/gin.tex [63])
+(./Ricette/Cocktails/vermouth.tex [64]) (./Ricette/Basi/giardiniera.tex
+[65]) [66] [67
 
 ]
 runsystem(makeindex appunti-di-cucina.idx)...executed safely (allowed).
 
- (./appunti-di-cucina.ind [67
+ (./appunti-di-cucina.ind [68
 
 
-]) [68] (./appunti-di-cucina.aux)
+]) [69] (./appunti-di-cucina.aux)
+ ***********
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+ ***********
 Package rerunfilecheck Info: File `appunti-di-cucina.out' has not changed.
-(rerunfilecheck)             Checksum: 5D36801E64C0F26F66FE9F81F6EC6417;10392.
+(rerunfilecheck)             Checksum: 823B07479F8468FEE6E4FC193E11CEBD;10510.
  ) 
 Here is how much of TeX's memory you used:
- 11889 strings out of 477926
- 193812 string characters out of 5837870
- 1864330 words of memory out of 5000000
- 31555 multiletter control sequences out of 15000+600000
- 518817 words of font info for 54 fonts, out of 8000000 for 9000
+ 11958 strings out of 476763
+ 196391 string characters out of 5805874
+ 1932791 words of memory out of 5000000
+ 32792 multiletter control sequences out of 15000+600000
+ 564599 words of font info for 58 fonts, out of 8000000 for 9000
  81 hyphenation exceptions out of 8191
- 75i,11n,76p,731b,637s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc} </home/mbarbieri
-/.texlive2022/texmf-var/fonts/pk/ljfour/public/cookingsymbols/cookingsymbols.60
-0pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/sh
-are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmsl10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti
-10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on appunti-di-cucina.pdf (71 pages, 368729 bytes).
+ 75i,11n,79p,731b,637s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </home/mbarbieri/.texlive2023/texmf-var/fonts/pk/ljfour/public/cookingsymbol
+s/cookingsymbols.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmti10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm100
+0.pfb>
+Output written on appunti-di-cucina.pdf (72 pages, 369962 bytes).
 PDF statistics:
- 1022 PDF objects out of 1200 (max. 8388607)
- 906 compressed objects within 10 object streams
- 156 named destinations out of 1000 (max. 500000)
- 555 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1035 PDF objects out of 1200 (max. 8388607)
+ 918 compressed objects within 10 object streams
+ 158 named destinations out of 1000 (max. 500000)
+ 563 words of extra memory for PDF output out of 10000 (max. 10000000)
 
