@@ -1,1 +1,1 @@
-Qui mettiamo i file grezzi delle ricette da impaginare
+Se non vuoi caricare ricette Latex metti qui i file grezzi delle ricette da impaginare
