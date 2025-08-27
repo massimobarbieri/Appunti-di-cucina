@@ -57,18 +57,19 @@
 \contentsline {section}{\numberline {9.5}Cioccolata in tazza}{54}{section.9.5}%
 \contentsline {section}{\numberline {9.6}Crema pasticcera}{55}{section.9.6}%
 \contentsline {section}{\numberline {9.7}Crostata di limone e mandorle}{56}{section.9.7}%
-\contentsline {section}{\numberline {9.8}Gelato: stracciatella al basilico}{57}{section.9.8}%
-\contentsline {section}{\numberline {9.9}Nocciolata}{58}{section.9.9}%
-\contentsline {section}{\numberline {9.10}Pancake}{59}{section.9.10}%
-\contentsline {section}{\numberline {9.11}Pasta frolla}{60}{section.9.11}%
-\contentsline {section}{\numberline {9.12}Tortellini al forno}{61}{section.9.12}%
-\contentsline {chapter}{\numberline {10}Cocktails}{62}{chapter.10}%
-\contentsline {section}{\numberline {10.1}Mule e derivati}{63}{section.10.1}%
-\contentsline {section}{\numberline {10.2}Negroni \& derivati}{64}{section.10.2}%
-\contentsline {chapter}{\numberline {11}Appunti}{65}{chapter.11}%
-\contentsline {section}{\numberline {11.1}Bitter: appunti}{66}{section.11.1}%
-\contentsline {section}{\numberline {11.2}Gin: appunti}{67}{section.11.2}%
-\contentsline {section}{\numberline {11.3}Vermouth: appunti}{68}{section.11.3}%
-\contentsline {section}{\numberline {11.4}Giardiniera di verdure fermentate}{69}{section.11.4}%
-\contentsline {part}{I\hspace {1em}Indici}{70}{part.1}%
-\contentsline {chapter}{Indice degli ingredienti}{71}{section*.11}%
+\contentsline {section}{\numberline {9.8}Gelato: fiordilatte}{57}{section.9.8}%
+\contentsline {section}{\numberline {9.9}Gelato: stracciatella al basilico}{58}{section.9.9}%
+\contentsline {section}{\numberline {9.10}Nocciolata}{59}{section.9.10}%
+\contentsline {section}{\numberline {9.11}Pancake}{60}{section.9.11}%
+\contentsline {section}{\numberline {9.12}Pasta frolla}{61}{section.9.12}%
+\contentsline {section}{\numberline {9.13}Tortellini al forno}{62}{section.9.13}%
+\contentsline {chapter}{\numberline {10}Cocktails}{63}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Mule e derivati}{64}{section.10.1}%
+\contentsline {section}{\numberline {10.2}Negroni \& derivati}{65}{section.10.2}%
+\contentsline {chapter}{\numberline {11}Appunti}{66}{chapter.11}%
+\contentsline {section}{\numberline {11.1}Bitter: appunti}{67}{section.11.1}%
+\contentsline {section}{\numberline {11.2}Gin: appunti}{68}{section.11.2}%
+\contentsline {section}{\numberline {11.3}Vermouth: appunti}{69}{section.11.3}%
+\contentsline {section}{\numberline {11.4}Giardiniera di verdure fermentate}{70}{section.11.4}%
+\contentsline {part}{I\hspace {1em}Indici}{71}{part.1}%
+\contentsline {chapter}{Indice degli ingredienti}{72}{section*.11}%
