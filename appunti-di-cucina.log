@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025/Debian) (preloaded format=pdflatex 2025.8.20)  27 AUG 2025 08:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025/Debian) (preloaded format=pdflatex 2025.11.1)  23 NOV 2025 09:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **appunti-di-cucina.tex
 (./appunti-di-cucina.tex
 LaTeX2e <2025-06-01> patch level 1
-L3 programming layer <2025-07-19>
+L3 programming layer <2025-09-02>
 (/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2025/01/22 v1.4n Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
@@ -115,7 +115,7 @@ Package: multicol 2025/05/25 v2.0a multicolumn formatting (FMi)
 \g__mc_curr_col_int=\count294
 )
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2025/07/13 v25.11 The multilingual framework for LuaLaTeX, pdfLa
+Package: babel 2025/08/03 v25.12 The multilingual framework for LuaLaTeX, pdfLa
 TeX and XeLaTeX
 \babel@savecnt=\count295
 LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input li
@@ -922,7 +922,7 @@ Capitolo 9.
 
 
 
-<img/cassatina.png, id=651, 153.9351pt x 60.9477pt>
+<img/cassatina.png, id=656, 153.9351pt x 60.9477pt>
 File: img/cassatina.png Graphic file (type png)
 <use img/cassatina.png>
 Package pdftex.def Info: img/cassatina.png  used on input line 59.
@@ -1003,7 +1003,7 @@ Package pdftex.def Info: img/cassatina.png  used on input line 59.
 
 [62]
 Capitolo 10.
-(./Ricette/Cocktails/mule.tex
+(./Ricette/Cocktails/kombucha.tex
 
 [63
 
@@ -1013,7 +1013,7 @@ Capitolo 10.
 
 
 
-) (./Ricette/Cocktails/negroni.tex
+) (./Ricette/Cocktails/mule.tex
 
 [64]
 
@@ -1021,28 +1021,28 @@ Capitolo 10.
 
 
 
-<img/negroni.png, id=710, 375.0813pt x 232.34805pt>
+) (./Ricette/Cocktails/negroni.tex
+
+[65]
+
+
+
+
+
+<img/negroni.png, id=719, 375.0813pt x 232.34805pt>
 File: img/negroni.png Graphic file (type png)
 <use img/negroni.png>
 Package pdftex.def Info: img/negroni.png  used on input line 39.
 (pdftex.def)             Requested size: 375.08038pt x 232.34747pt.
 )
 
-[65 <./img/negroni.png>]
+[66 <./img/negroni.png>]
 Capitolo 11.
 (./Ricette/Cocktails/bitter.tex
 
-[66
+[67
 
 ]) (./Ricette/Cocktails/gin.tex
-
-[67]
-
-
-
-
-
-) (./Ricette/Cocktails/vermouth.tex
 
 [68]
 
@@ -1050,7 +1050,7 @@ Capitolo 11.
 
 
 
-) (./Ricette/Basi/giardiniera.tex
+) (./Ricette/Cocktails/vermouth.tex
 
 [69]
 
@@ -1058,11 +1058,19 @@ Capitolo 11.
 
 
 
-)
+) (./Ricette/Basi/giardiniera.tex
 
 [70]
 
-[71
+
+
+
+
+)
+
+[71]
+
+[72
 
 ]
 runsystem(makeindex appunti-di-cucina.idx)...executed safely (allowed).
@@ -1073,7 +1081,7 @@ runsystem(makeindex appunti-di-cucina.idx)...executed safely (allowed).
 
 
 
-[72
+[73
 
 
 ]
@@ -1084,22 +1092,22 @@ runsystem(makeindex appunti-di-cucina.idx)...executed safely (allowed).
 
 )
 
-[73] (./appunti-di-cucina.aux)
+[74] (./appunti-di-cucina.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
-L3 programming layer <2025-07-19>
+L3 programming layer <2025-09-02>
  ***********
 Package rerunfilecheck Info: File `appunti-di-cucina.out' has not changed.
-(rerunfilecheck)             Checksum: 01EFC1D1F3B192CD712B4A68751B89C2;11064.
+(rerunfilecheck)             Checksum: EFBDDB8A2E15C4A66D1F5F6A9149FA90;11217.
  ) 
 Here is how much of TeX's memory you used:
- 12264 strings out of 469672
- 203703 string characters out of 5479762
- 629126 words of memory out of 5000000
- 40159 multiletter control sequences out of 15000+600000
- 633355 words of font info for 62 fonts, out of 8000000 for 9000
+ 12277 strings out of 469604
+ 204032 string characters out of 5474469
+ 630552 words of memory out of 5000000
+ 40235 multiletter control sequences out of 15000+600000
+ 634251 words of font info for 62 fonts, out of 8000000 for 9000
  81 hyphenation exceptions out of 8191
- 75i,11n,79p,731b,649s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,794b,649s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/mbarbieri/.texlive2025/texmf-var/fonts/pk/ljfour/public/cookingsymbol
 s/cookingsymbols.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
@@ -1113,10 +1121,10 @@ ts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texlive/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmti10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm100
 0.pfb>
-Output written on appunti-di-cucina.pdf (77 pages, 379343 bytes).
+Output written on appunti-di-cucina.pdf (78 pages, 383327 bytes).
 PDF statistics:
- 1085 PDF objects out of 1200 (max. 8388607)
- 963 compressed objects within 10 object streams
- 169 named destinations out of 1000 (max. 500000)
- 595 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1094 PDF objects out of 1200 (max. 8388607)
+ 971 compressed objects within 10 object streams
+ 171 named destinations out of 1000 (max. 500000)
+ 603 words of extra memory for PDF output out of 10000 (max. 10000000)
 
